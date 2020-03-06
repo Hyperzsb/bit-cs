@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-3/copy.cpp
+copy.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-3/copy.h
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-3/copy.h
+iostream
+-
+fstream
+-
+io.h
+-
+string
+-
+cstring
+-
+utility
+-
+regex
+-
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-3/main.cpp
+copy.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-3/copy.h
+

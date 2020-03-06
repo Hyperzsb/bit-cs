@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\nim.dir/objects.a
+"D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\ar.exe" cr CMakeFiles\nim.dir/objects.a @CMakeFiles\nim.dir\objects1.rsp
+"D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\nim.dir/objects.a -Wl,--no-whole-archive  -o nim.exe -Wl,--out-implib,libnim.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\nim.dir\linklibs.rsp

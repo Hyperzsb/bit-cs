@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\crazy_tea_party.dir/objects.a
+"D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\ar.exe" cr CMakeFiles\crazy_tea_party.dir/objects.a @CMakeFiles\crazy_tea_party.dir\objects1.rsp
+"D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\crazy_tea_party.dir/objects.a -Wl,--no-whole-archive  -o crazy_tea_party.exe -Wl,--out-implib,libcrazy_tea_party.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\crazy_tea_party.dir\linklibs.rsp

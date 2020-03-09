@@ -13,4 +13,4 @@
   - Computation Theory and Algorithm Analysis (计算原理与算法分析)
   - Object Oriented Technology and Methods (面向对象技术与方法)
 
-***Continually update...***
+***Continually updating...***

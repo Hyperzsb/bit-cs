@@ -82,9 +82,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="E:/Private Files/BIT/2020/combinatorial-mathematics/halloween-treats-(POJ3370)/correct.cpp">
-			<Option target="halloween_treats__POJ3370_"/>
-		</Unit>
 		<Unit filename="E:/Private Files/BIT/2020/combinatorial-mathematics/halloween-treats-(POJ3370)/main.cpp">
 			<Option target="halloween_treats__POJ3370_"/>
 		</Unit>

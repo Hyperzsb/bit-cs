@@ -122,33 +122,6 @@ halloween_treats__POJ3370_/fast:
 	$(MAKE) -f CMakeFiles\halloween_treats__POJ3370_.dir\build.make CMakeFiles/halloween_treats__POJ3370_.dir/build
 .PHONY : halloween_treats__POJ3370_/fast
 
-correct.obj: correct.cpp.obj
-
-.PHONY : correct.obj
-
-# target to build an object file
-correct.cpp.obj:
-	$(MAKE) -f CMakeFiles\halloween_treats__POJ3370_.dir\build.make CMakeFiles/halloween_treats__POJ3370_.dir/correct.cpp.obj
-.PHONY : correct.cpp.obj
-
-correct.i: correct.cpp.i
-
-.PHONY : correct.i
-
-# target to preprocess a source file
-correct.cpp.i:
-	$(MAKE) -f CMakeFiles\halloween_treats__POJ3370_.dir\build.make CMakeFiles/halloween_treats__POJ3370_.dir/correct.cpp.i
-.PHONY : correct.cpp.i
-
-correct.s: correct.cpp.s
-
-.PHONY : correct.s
-
-# target to generate assembly for a file
-correct.cpp.s:
-	$(MAKE) -f CMakeFiles\halloween_treats__POJ3370_.dir\build.make CMakeFiles/halloween_treats__POJ3370_.dir/correct.cpp.s
-.PHONY : correct.cpp.s
-
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -185,9 +158,6 @@ help:
 	@echo ... halloween_treats__POJ3370_
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... correct.obj
-	@echo ... correct.i
-	@echo ... correct.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

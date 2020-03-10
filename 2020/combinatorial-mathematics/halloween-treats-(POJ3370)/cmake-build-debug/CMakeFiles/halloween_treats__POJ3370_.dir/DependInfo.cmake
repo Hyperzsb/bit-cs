@@ -4,7 +4,6 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "E:/Private Files/BIT/2020/combinatorial-mathematics/halloween-treats-(POJ3370)/correct.cpp" "E:/Private Files/BIT/2020/combinatorial-mathematics/halloween-treats-(POJ3370)/cmake-build-debug/CMakeFiles/halloween_treats__POJ3370_.dir/correct.cpp.obj"
   "E:/Private Files/BIT/2020/combinatorial-mathematics/halloween-treats-(POJ3370)/main.cpp" "E:/Private Files/BIT/2020/combinatorial-mathematics/halloween-treats-(POJ3370)/cmake-build-debug/CMakeFiles/halloween_treats__POJ3370_.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

@@ -4,6 +4,9 @@
 
 **Currently includes:**
 
+- **2018**
+  - Fundamentals of Programming-(C) (程序设计基础（C）)
+
 - **2019**
   - Data Structure (数据结构)
   - Discrete Mathematics (离散数学)

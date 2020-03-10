@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/halloween_treats__POJ3370_.dir/correct.cpp.obj"
   "CMakeFiles/halloween_treats__POJ3370_.dir/main.cpp.obj"
   "halloween_treats__POJ3370_.exe"
   "halloween_treats__POJ3370_.exe.manifest"

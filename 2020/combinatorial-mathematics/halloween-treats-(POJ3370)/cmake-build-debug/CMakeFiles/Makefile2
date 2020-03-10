@@ -73,12 +73,12 @@ preinstall:
 CMakeFiles/halloween_treats__POJ3370_.dir/all:
 	$(MAKE) -f CMakeFiles\halloween_treats__POJ3370_.dir\build.make CMakeFiles/halloween_treats__POJ3370_.dir/depend
 	$(MAKE) -f CMakeFiles\halloween_treats__POJ3370_.dir\build.make CMakeFiles/halloween_treats__POJ3370_.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Private Files\BIT\2020\combinatorial-mathematics\halloween-treats-(POJ3370)\cmake-build-debug\CMakeFiles" --progress-num=1,2,3 "Built target halloween_treats__POJ3370_"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Private Files\BIT\2020\combinatorial-mathematics\halloween-treats-(POJ3370)\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target halloween_treats__POJ3370_"
 .PHONY : CMakeFiles/halloween_treats__POJ3370_.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/halloween_treats__POJ3370_.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Private Files\BIT\2020\combinatorial-mathematics\halloween-treats-(POJ3370)\cmake-build-debug\CMakeFiles" 3
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Private Files\BIT\2020\combinatorial-mathematics\halloween-treats-(POJ3370)\cmake-build-debug\CMakeFiles" 2
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/halloween_treats__POJ3370_.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Private Files\BIT\2020\combinatorial-mathematics\halloween-treats-(POJ3370)\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/halloween_treats__POJ3370_.dir/rule

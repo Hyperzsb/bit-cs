@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Private Files/BIT/2018/fundamentals-of-programming-(C)/54-[university]-may-you-be-prosperous/main.cpp
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+

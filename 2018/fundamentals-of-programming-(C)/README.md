@@ -95,8 +95,8 @@
 - H20.特别不高兴的女朋友（选做）
 - H21.大数分解（选做）
 - [53.【日期】车辆限行](https://github.com/Hyperzsb/BIT/tree/master/2018/fundamentals-of-programming-(C)/53-[date]-vehicle-limit-operation)
-- 54.【大学】恭喜发财 利是窦来
-- 55.回文字符串——递归
+- [54.【大学】恭喜发财 利是窦来](https://github.com/Hyperzsb/BIT/tree/master/2018/fundamentals-of-programming-(C)/54-[university]-may-you-be-prosperous)
+- [55.回文字符串——递归](https://github.com/Hyperzsb/BIT/tree/master/2018/fundamentals-of-programming-(C)/55-palindrome-string-recursion)
 - 56.【大学】求表示方法
 - 57.安排比赛
 - H22.扫雷

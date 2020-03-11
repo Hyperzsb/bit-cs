@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Private Files/BIT/2019/discrete-mathematics/find-transitive-closure-of-relation/main.cpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+

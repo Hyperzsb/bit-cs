@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Private Files/BIT/2019/discrete-mathematics/find-extremal-element-in-poset/main.cpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+

@@ -14,6 +14,7 @@
 - **2020**
   - [Combinatorial Mathematics (组合数学)](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics)
   - [Computation Theory and Algorithm Analysis (计算原理与算法分析)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis)
+  - [Digital Logic (数字逻辑)](https://github.com/Hyperzsb/BIT/tree/master/2020/digital-logic)
   - [Object Oriented Technology and Methods (面向对象技术与方法)](https://github.com/Hyperzsb/BIT/tree/master/2020/object-oriented-technology-and-methods)
 
 ***Continually updating...***

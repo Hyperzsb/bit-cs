@@ -4,6 +4,8 @@
 
 ##### 开课时间：2019年秋
 
+##### 教材：[《离散数学（第2版）》](https://book.douban.com/subject/26776768/)
+
 ### 题目
 
 - [求命题公式的主范式](https://github.com/Hyperzsb/BIT/tree/master/2019/discrete-mathematics/find-normal-forms-of-proposition)

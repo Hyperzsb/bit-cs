@@ -4,6 +4,8 @@
 
 ##### 开课时间：2020年春
 
+##### 教材：[《计算机算法设计与分析》](https://book.douban.com/subject/10532384/)、[《计算理论导引》](https://book.douban.com/subject/1852515/)
+
 ### 题目
 
 - [Cable master](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/cable-master)

@@ -4,6 +4,8 @@
 
 ##### 开课时间：2020年春
 
+##### 教材：[《Introductory Combinatorics》](https://book.douban.com/subject/3564282/)
+
 ### 题目
 
 - [nim](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/nim)

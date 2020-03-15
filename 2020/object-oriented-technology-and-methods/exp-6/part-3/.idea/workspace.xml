@@ -11,32 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd2d430a-75b7-4f6f-83ff-2cb17210966b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../exp-5/.idea/exp-5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../exp-5/equation.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../exp-5/equation.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/.idea/part-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/stack.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/stack.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-2/.idea/part-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-2/pointer.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-2/pointer.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/part-3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array.h" afterDir="false" />
-    </list>
+    <list default="true" id="fd2d430a-75b7-4f6f-83ff-2cb17210966b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583929489496</updated>
       <workItem from="1583929491026" duration="2640000" />
+      <workItem from="1584234283866" duration="628000" />
     </task>
     <servers />
   </component>
@@ -98,7 +74,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

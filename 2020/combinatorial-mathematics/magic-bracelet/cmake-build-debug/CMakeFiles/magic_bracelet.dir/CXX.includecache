@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Private Files/BIT/2020/combinatorial-mathematics/magic-bracelet/main.cpp
+cstdio
+-
+cmath
+-
+cstring
+-
+

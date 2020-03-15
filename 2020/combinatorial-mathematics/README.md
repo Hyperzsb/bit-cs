@@ -15,5 +15,7 @@
 - Biorhythms (POJ1006)
 - 排列的邻位互换
 - [排列的逆序 - (inverted-sequence-of-arrangement)](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/inverted-sequence-of-arrangement)
+- [Magic Bracelet](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/magic-bracelet)
+- [Magic Bracelet (Simplified)](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/magic-bracelet-(simplified))
 
 ***Continually updating...***

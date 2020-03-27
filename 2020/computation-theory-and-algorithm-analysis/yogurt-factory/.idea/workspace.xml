@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="yogurt_factory" targetName="yogurt_factory" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f866e4ba-65a9-4ae1-ac1e-8a5621ce2199" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/.idea/matrix-successive-multiplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/matrix_successive_multiplication.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/matrix_successive_multiplication.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/matrix_successive_multiplication.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/matrix_successive_multiplication.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/matrix_successive_multiplication.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/matrix_successive_multiplication.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/matrix_successive_multiplication.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/matrix_successive_multiplication.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/matrix_successive_multiplication.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/matrix_successive_multiplication.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/matrix_successive_multiplication.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/cmake-build-debug/matrix_successive_multiplication.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrix-successive-multiplication/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/yogurt-factory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/yogurt_factory.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/yogurt_factory.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/yogurt_factory.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/yogurt_factory.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/yogurt_factory.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/yogurt_factory.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/yogurt_factory.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/yogurt_factory.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/yogurt_factory.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/yogurt_factory.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/yogurt_factory.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/yogurt_factory.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1ZhBHz5KmKSoKsfaIwVjV34AW9D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="yogurt_factory" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yogurt_factory" TARGET_NAME="yogurt_factory" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="yogurt_factory" RUN_TARGET_NAME="yogurt_factory">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f866e4ba-65a9-4ae1-ac1e-8a5621ce2199" name="Default Changelist" comment="" />
+      <created>1585281361135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585281361135</updated>
+      <workItem from="1585281362809" duration="1923000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="4_generalized_table_reverse_order" targetName="4_generalized_table_reverse_order" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78df6a14-6ad4-4fb5-939e-0242e1966092" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../1-word-compression-storage/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-word-compression-storage/.idea/1-word-compression-storage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-word-compression-storage/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-word-compression-storage/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-word-compression-storage/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-word-compression-storage/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-word-compression-storage/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-fast-transpose-algorithm-of-matrix/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-fast-transpose-algorithm-of-matrix/.idea/2-fast-transpose-algorithm-of-matrix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-fast-transpose-algorithm-of-matrix/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-fast-transpose-algorithm-of-matrix/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-fast-transpose-algorithm-of-matrix/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/.idea/3-multiplication-of-sparse-matrix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1ZiPzBcStQcp2Iv22UeoY3wYOkr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="4_generalized_table_reverse_order" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="4_generalized_table_reverse_order" TARGET_NAME="4_generalized_table_reverse_order" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="4_generalized_table_reverse_order" RUN_TARGET_NAME="4_generalized_table_reverse_order">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78df6a14-6ad4-4fb5-939e-0242e1966092" name="Default Changelist" comment="" />
+      <created>1585319200817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585319200817</updated>
+      <workItem from="1585319202550" duration="174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

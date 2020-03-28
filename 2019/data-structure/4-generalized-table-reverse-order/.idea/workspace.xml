@@ -11,38 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78df6a14-6ad4-4fb5-939e-0242e1966092" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../1-word-compression-storage/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1-word-compression-storage/.idea/1-word-compression-storage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1-word-compression-storage/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1-word-compression-storage/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1-word-compression-storage/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1-word-compression-storage/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1-word-compression-storage/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2-fast-transpose-algorithm-of-matrix/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2-fast-transpose-algorithm-of-matrix/.idea/2-fast-transpose-algorithm-of-matrix.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2-fast-transpose-algorithm-of-matrix/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2-fast-transpose-algorithm-of-matrix/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2-fast-transpose-algorithm-of-matrix/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/.idea/3-multiplication-of-sparse-matrix.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3-multiplication-of-sparse-matrix/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="78df6a14-6ad4-4fb5-939e-0242e1966092" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585319200817</updated>
       <workItem from="1585319202550" duration="174000" />
+      <workItem from="1585405954900" duration="68000" />
     </task>
     <servers />
   </component>
@@ -103,7 +73,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

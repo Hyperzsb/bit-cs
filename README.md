@@ -10,7 +10,7 @@
 - **2019**
   - [Data Structure (数据结构)](https://github.com/Hyperzsb/BIT/tree/master/2019/data-structure)
   - [Discrete Mathematics (离散数学)](https://github.com/Hyperzsb/BIT/tree/master/2019/discrete-mathematics)
-  - [Web开发基础（fundamentals-of-web-development）](https://github.com/Hyperzsb/BIT/tree/master/2019/fundamentals-of-web-development)
+  - [Fundamentals of Web Development (Web开发基础)](https://github.com/Hyperzsb/BIT/tree/master/2019/fundamentals-of-web-development)
   - [Java Programming (Java语言程序设计)](https://github.com/Hyperzsb/BIT/tree/master/2019/java-programming)
   - [Programming Method and Practice (程序设计方法与实践)](https://github.com/Hyperzsb/BIT/tree/master/2019/programming-method-and-practice)
 - **2020**

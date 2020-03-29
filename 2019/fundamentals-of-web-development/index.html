@@ -1,0 +1,442 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Running to Me!</title>
+  <link href="css/index.css" rel="stylesheet" type="text/css" />
+  <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script src="js/index.js"></script>
+  <script language="javascript">
+    $(document).ready(function(){
+		greet();
+		var hobbyPages=$('.hobbyDetial');
+		for(var i=1;i<hobbyPages.length;i++)
+			hobbyPages.eq(i).hide();
+	});
+  </script>
+ </head>
+ <body>
+  <div id="mainContainer" class="white">
+   <!--HEADER_START-->
+   <header class="displayRow">
+    <div class="headerLogo">ZSB</div>
+	<div class="flexGrow"></div>
+	<div class="headerDiv" id="navButton1" onclick="navGotoSelfDescription();">我？我是...</div>
+	<div class="headerDiv" onclick="navGotoHobby();">爱好什么？</div>
+	<div class="headerDiv" onclick="navGotoAbout();">Overwatch的那些事</div>
+   </header>
+   <!--HEADER_END-->
+   <!--MAINCONTENT_START-->
+   <div id="content" class="displayColumn">
+    <div id="greetModalResponse">
+	 <div class="modalResponseDetial displayColumn">
+	  <div class="modalResponseDetialText"></div>
+	  <div class="modalResponseDetialText">欢迎来到我的个人主页！</div>
+	  <div class="modalResponseDetialCloseButton">确定</div>
+	 </div>
+	</div>
+	<!--SELFDESCRIPTION_START-->
+	<div id="selfDescription" class="displayColumn">
+     <h1 class="subTitleH1">关于我：</h1>
+     <!--INTRODUCTION_START-->
+	 <h2 class="subTitleH2">我？我是...</h2>
+	 <div id="introduction" class="displayRow">
+	 	<p class="prograph">
+		 <span class="bold">张少博</span>,来自<span class="bold">内蒙古</span>，活泼开朗，热爱<span class="bold">计算机技术</span><br/>梦想是为国家<span class="bold">网络空间安全</span>建设事业做出自己的贡献。尽管还有很多不了解的知识（比如说<span class="bold">算法...</span>）挡在我前进的道路上...<br/>但是我始终秉承着“天道酬勤”的信念，不懈拼搏，相信终有一天可以看到胜利的曙光！
+		</p>
+	 </div>
+     <!--INTRODUCTION_END-->
+	 <!--MOODGALLERY_START-->
+	 <h2 class="subTitleH2">我的心情风向标</h2>
+	 <div id="moodGallery" class="displayRow">
+	  <div class="galleryIamgeContainer">
+	   <img src="image/happy.jpg" alt="Happy" style="width:100%;height:100%;">
+	   <div class="galleryTextContainer">
+        <p class="middle">当我开心的时候</p>
+       </div>
+      </div>
+	  <div class="galleryIamgeContainer">
+	   <img src="image/sad.jpg" alt="sad" style="width:100%;height:100%;">
+	   <div class="galleryTextContainer">
+        <p class="middle">当我悲伤的时候</p>
+       </div>
+      </div>
+	 </div>
+	 <!--MOODGALLERY_END-->
+     <!--CLASSTABLE_START-->
+	 <h2 class="subTitleH2">BIT的日常</h2>
+	 <div id="classTable" class="displayColumn">
+	  <table id="classSheet">
+	   <tr>
+	    <th></th>
+		<th>星期一</th>
+		<th>星期二</th>
+		<th>星期三</th>
+		<th>星期四</th>
+		<th>星期五</th>
+	   </tr>
+	   <tr>
+	    <th>一</th>
+	    <td></td>
+		<td>概率与数理统计-杨鹏飞</td>
+		<td>JAVA语言程序设计-金旭亮</td>
+		<td>概率与数理统计-杨鹏飞</td>
+		<td>数值分析-王贵珍</td>
+	   </tr>
+	   <tr>
+	    <th>二</th>
+	    <td>大学物理AⅡ-冯艳全</td>
+		<td></td>
+		<td>离散数学Ⅰ-刘琼昕</td>
+		<td>体育/身体综合训练-栗晶</td>
+		<td>大学物理AⅡ-冯艳全</td>
+	   </tr>
+	   <tr>
+	    <th>三</th>
+	    <td></td>
+		<td>离散数学Ⅰ-刘琼昕</td>
+		<td>数据结构-袁武</td>
+		<td></td>
+		<td>数据结构-袁武</td>
+	   </tr>
+	   <tr>
+	    <th>四</th>
+	    <td>JAVA语言程序设计-金旭亮</td>
+		<td></td>
+		<td>数值分析-王贵珍</td>
+		<td>马克思主义基本原理概论-王文娟</td>
+		<td></td>
+	   </tr>
+	   <tr>
+	    <th>五</th>
+	    <td></td>
+		<td></td>
+		<td></td>
+		<td>大自然的奥秘与仿生探索-彭志龙</td>
+		<td></td>
+	   </tr>
+	   <tr>
+	    <th>小学期</th>
+		<td></td>
+		<td>程序设计方法与实践-李建武</td>
+		<td></td>
+		<td>Web开发基础-赵刚</td>
+		<td></td>
+	   </tr>
+	  </table>
+	 </div>
+	 <!--CLASSTABLE_END-->
+	</div>
+	<!--SELFDESCRIPTION_END-->
+	<!--HOBBY_START-->
+	<div id="hobby">
+	 <h1 class="subTitleH1">我的爱好？</h1>
+	 <div id="hobbyNav" class="displayRow">
+	  <div class="hobbyNavDiv hobbyNavDivChecked" onclick="hobbyChange(0);">游戏</div>
+	  <div class="hobbyNavDiv" onclick="hobbyChange(1);">电影</div>
+	  <div class="hobbyNavDiv" onclick="hobbyChange(2);">音乐</div>
+	  <div class="hobbyNavDiv" onclick="hobbyChange(3);">其它</div>
+	 </div>
+	 <div class="hobbyDetial">
+	  <div class="hobbyAlignLeft displayRow">
+	   <div class="hobbyImageContainer displayColumn">
+	    <a href="https://ow.blizzard.cn/home" target="view_window">
+		 <img class="hobbyIamge" src="image/game1.jpg" alt="守望先锋" style="width:100%;">
+		</a>
+	   </div>
+	   <div class="hobbyTextContainer displayColumn">
+	    <h3 class="subTitleH3">守望先锋</h3>
+	    在《守望先锋》这款团队射击游戏中，你将控制许多风格迥异的英雄中的其中一个，与战友组成一支六人队伍，和对手抢夺目标、决一死战并夺取最终的胜利！也许你会喜欢一只来自月球，经过基因改造并且使用着电磁炮的大猩猩科学家。也许你会青睐一个以禅坐姿势漂浮的机械僧侣，既能治疗盟友，也能削弱敌人。或者，你会喜欢一名能够快速传送、穿梭时间的自由战士？快加入守望先锋，感受它独特的魅力吧！
+	   </div>
+	  </div>
+	  <div class="hobbyAlignRight">
+	   <div class="hobbyImageContainer displayColumn">
+	    <a href="https://www.ubisoft.com.cn/games/farcry4" target="view_window">
+		 <img class="hobbyIamge" src="image/game2.jpg" alt="" style="width:100%;">
+		</a>
+	   </div>
+	   <div class="hobbyTextContainer displayColumn">
+	    <h3 class="subTitleH3 alignRight">孤岛惊魂4</h3>
+	    《孤岛惊魂4》故事发生在喜马拉雅山脉的虚构国家Kyrat，这个国家主要由庞大的山脉和森林、广袤的水系、村庄构成。你将扮演一位年轻的凯拉特裔美国人阿杰•盖勒，他远离故乡多年，现如今回归祭奠亲人，却不料Kyrat地区正处于混乱中，自己也被陷入了由残暴的国王蒲甘•明控制的凯拉特皇家军队和反叛势力“黄金之路”的内战中，以及这个地区的神秘宗教信仰与秘密中。阿杰•盖勒作为黄金之路首领Mohan和Ishwari之子，此行来到Kyrat是为了完成其母Ishwari最后的愿望-将自己的骨灰埋葬在自己曾经的故土之上。
+	   </div>
+	  </div>
+	  <div class="hobbyAlignLeft displayRow">
+	   <div class="hobbyImageContainer displayColumn">
+	    <a href="https://www.ubisoft.com.cn/games/acod" target="view_window">
+	     <img class="hobbyIamge" src="image/game3.jpg" alt="" style="width:100%;">
+		</a>
+	   </div>
+	   <div class="hobbyTextContainer displayColumn">
+	    <h3 class="subTitleH3">刺客信条：奥德赛</h3>
+	    《刺客信条：奥德赛》由育碧魁北克工作室开发，是《刺客信条》的第八部主系列作品，也是2017年游戏《刺客信条：起源》的续作。《奥德赛》故事发生在古希腊，一个充满神秘色彩和传奇的世界，在公元前5世纪斯巴达和雅典之间著名的伯罗奔尼撒战争时期。玩家将选择扮演“阿利克西欧斯”或“卡珊德拉”，一个被家族判处死刑，拥有斯巴达血统的雇佣兵，开启一段从一位年轻的被遗弃之人到传奇英雄的史诗旅程，并逐步揭开其神秘血统背后的真相。
+	   </div>
+	  </div>
+	 </div>
+	 <div class="hobbyDetial">
+	  <div class="hobbyAlignLeft displayRow">
+	   <div class="hobbyImageContainer displayColumn">
+	    <a href="https://baike.baidu.com/item/黑客帝国/34564?fr=aladdin" target="view_window">
+	     <img class="hobbyIamge" src="image/movie1.jpg" alt="" style="width:100%;">
+		</a>
+	   </div>
+	   <div class="hobbyTextContainer displayColumn">
+	    <h3 class="subTitleH3">黑客帝国</h3>
+	    “每个人的身上都潜藏这完美灵性世界的碎片，他们死后体内的“灵性碎片”便会脱离肉体束缚，重返宇宙之外那个的至善至美的世界，成为永恒。每个人都是身处黑暗宇宙的“异乡人”，他们的家乡在这个宇宙之外。”《黑客帝国》三部曲上映于十五年前，现在回看，这屹立于世纪之交的经典作品，几乎已经成为未来科技发展方向的《预言书》。
+	   </div>
+	  </div>
+	  <div class="hobbyAlignRight">
+	   <div class="hobbyImageContainer displayColumn">
+	    <a href="https://baike.baidu.com/item/盗梦空间/31288?fr=aladdin" target="view_window">
+	     <img class="hobbyIamge" src="image/movie2.jpg" alt="" style="width:100%;">
+		</a>
+	   </div>
+	   <div class="hobbyTextContainer displayColumn">
+	    <h3 class="subTitleH3 alignRight">盗梦空间</h3>
+	    “昔者庄周梦为蝴蝶，栩栩然蝴蝶也，自喻适志与！不知周也。俄然觉，则蘧蘧然周也。不知周之梦为蝴蝶与，蝴蝶之梦为周与？周与蝴蝶，则必有分矣。此之谓物化。”Dom也许从来没有醒来过，谁都不知道那辆轰鸣而来的火车将他们带向何方，Mal跳下去的世界里有没有个女人一个人在一片荒凉的末日景象里惊醒。忘记了自己怎样的来到又会怎样的离去，其实，也许我们从来就没醒来过，六道轮回，回回皆为梦幻。
+	   </div>
+	  </div>
+	  <div class="hobbyAlignLeft displayRow">
+	   <div class="hobbyImageContainer displayColumn">
+	    <a href="https://baike.baidu.com/item/守望者/1589113?fr=aladdin" target="view_window">
+	     <img class="hobbyIamge" src="image/movie3.jpg" alt="" style="width:100%;">
+		</a>
+	   </div>
+	   <div class="hobbyTextContainer displayColumn">
+	    <h3 class="subTitleH3">守望者</h3>
+	    这部影片与其他超级英雄电影最大的不同在于它的“反英雄”性。守望者们大都没有超能力，同正常人一样经历着生老病死；他们没有传统英雄高尚的道德情操，善良、正义、无私，这些普世的价值观念并没有在他们身上得到体现。在传统英雄故事当中，为了不破坏英雄们所恪守的道德准则，在运用暴力时都会构建起一个特殊的语境：要么施暴的对象是穷凶极恶之人，要么是情势危急迫不得已。但在《守望者》中，作为道德保护的这一特殊语境被拿去，所赤裸裸呈现出来的便是英雄们暴力行为本质——他们不过是一群戴着面具在发泄着心底欲望的暴力狂。
+	   </div>
+	  </div>
+	 </div>
+	 <div class="hobbyDetial">
+	  <div class="hobbyAlignLeft displayRow">
+	   <div class="hobbyImageContainer displayColumn">
+	    <a href="https://baike.baidu.com/item/理想三旬/18477212?fr=aladdin" target="view_window">
+	     <img class="hobbyIamge" src="image/music1.jpg" alt="" style="width:100%;">
+		</a>
+	   </div>
+	   <div class="hobbyTextContainer displayColumn">
+	    <h3 class="subTitleH3">理想三旬 - 陈鸿宇</h3>
+	    青春又醉倒在<br/>籍籍无名的怀<br/>靠嬉笑来虚度，聚散得慷慨<br/>辗转却去不到<br/>对的站台<br/>如果漂泊是成长，必经的路牌...
+	   </div>
+	  </div>
+	  <div class="hobbyAlignRight">
+	   <div class="hobbyImageContainer displayColumn">
+	    <a href="https://baike.baidu.com/item/Hall%20Of%20Fame/8619556?fr=aladdin" target="view_window">
+	     <img class="hobbyIamge" src="image/music2.jpg" alt="" style="width:100%;">
+		</a>
+	   </div>
+	   <div class="hobbyTextContainer displayColumn">
+	    <h3 class="subTitleH3 alignRight">Hall of Fame - The Script</h3>
+	    You could beat the world, you could beat the war<br/>You could talk to God, go banging on his door<br/>You can throw your hands up, you can beat the clock<br>You can move a mountain, you can break rocks<br/>You could be a master, don't wait for luck<br/>Dedicate yourself and you can find yourself<br/>Standing in the hall of fame<br/>And the world's gonna know your name<br/>Cause you burn with the brightest flame<br/>And the world's gonna know your name<br/>And you'll be on the walls of the hall of fame<br/>
+	   </div>
+	  </div>
+	  <div class="hobbyAlignLeft displayRow">
+	   <div class="hobbyImageContainer displayColumn">
+	    <a href="https://baike.baidu.com/item/光辉岁月/6240273?fr=aladdin" target="view_window">
+	     <img class="hobbyIamge" src="image/music3.jpg" alt="" style="width:100%;">
+		</a>
+	   </div>
+	   <div class="hobbyTextContainer displayColumn">
+	    <h3 class="subTitleH3">光辉岁月 - Beyond</h3>
+	    可否不分肤色的界限 愿这土地里 不分你我高低<br/>缤纷色彩闪出的美丽 是因它没有 分开每种色彩<br/>年月把拥有变做失去 疲倦的双眼带着期望<br/>今天只有残留的躯壳<br/>迎接光辉岁月 风雨中抱紧自由<br/>一生经过彷徨的挣扎 自信可改变未来<br/>问谁又能做到
+	   </div>
+	  </div>
+	 </div>
+	 <div class="hobbyDetial">
+	  <div class="hobbyAlignLeft displayRow">
+	   <div class="hobbyImageContainer displayColumn">
+	    <a href="https://baike.baidu.com/item/骑行/4998509?fr=aladdin" target="view_window">
+	     <img class="hobbyIamge" src="image/hobby1.jpg" alt="" style="width:100%;">
+		</a>
+	   </div>
+	   <div class="hobbyTextContainer displayColumn">
+	    <h3 class="subTitleH3">骑行</h3>
+	    当耳边的风呼啸而过，轮下的路疾驰而去，那一刻你的心中，无限激情与感动；你的车就是你的战友，你的心就是你的方向，无畏，无束，一往无前，感受超越世俗羁绊的快感。
+	   </div>
+	  </div>
+	  <div class="hobbyAlignRight">
+	   <div class="hobbyImageContainer displayColumn">
+	    <a href="https://itbbs.pconline.com.cn/diy/" target="view_window">
+	     <img class="hobbyIamge" src="image/hobby2.jpg" alt="" style="width:100%;">
+		</a>
+	   </div>
+	   <div class="hobbyTextContainer displayColumn">
+	    <h3 class="subTitleH3 alignRight">电脑DIY</h3>
+	    Nvidia？AMD？超频？水冷？全塔？MOD？极致性能？完美颜值？<br/>
+		硬件DIY是一门艺术，在追求澎湃动力的同时，根据自己的设计打造出属于自己的PC平台，这何不是一门让人无限痴迷的艺术呢？
+	   </div>
+	  </div>
+	  <div class="hobbyAlignLeft displayRow">
+	   <div class="hobbyImageContainer displayColumn">
+	    <a href="https://baike.baidu.com/item/全栈工程师/12983270?fr=aladdin" target="view_window">
+	     <img class="hobbyIamge" src="image/hobby3.jpg" alt="" style="width:100%;">
+		</a>
+	   </div>
+	   <div class="hobbyTextContainer displayColumn">
+	    <h3 class="subTitleH3">全栈开发</h3>
+	    HTML5、CSS3、JavaScript、Vue、Node.js、PHP、MySQL、MongolDB...这些无不是全栈开发者的武器，利用这些，我们可以实现任何我们脑中所构想的事物，将其实体化、产品化，感受Web的无限魅力与强大生命力。
+	   </div>
+	  </div>
+	 </div>
+	</div>
+	<!--HOBBY_END-->
+	<!--TEST_START-->
+	<div id="test">
+	 <h1 class="subTitleH1">Overwatch你了解多少？</h1>
+	 <div class="testDescription displayColumn">
+	  <p class="questionText bold">欢迎来到守望先锋测试！在该测试中你将遇到许许多多奇怪而又有趣的问题，它将带你深入走进守望先锋的世界中！在你准备好之后，我们就开始吧！</p>
+	  <div id="startTestButton" onclick="startTest();">开始测试！</div>
+	 </div>
+	 <div id="testFormContainer" class="hide">
+	  <form id="testForm" action="">
+	   <h2 class="subTitleH2">一、单选题</h2>
+	   <div class="questionContainer">
+	    <p class="questionText bold">1、秩序之光所在的公司可以利用光子科技建造新型城市，这个公司被称为什么集团？</p>
+		<input type="radio" class="magic-radio " id="r1" name="question1" value="1"><label for="r1">A、帕斯卡集团</label>
+		<input type="radio" class="magic-radio" id="r2" name="question1" value="2"><label for="r2">B.费斯卡集团</label>
+		<input type="radio" class="magic-radio" id="r3" name="question1" value="3"><label for="r3">C.奥斯卡集团</label>
+		<input type="radio" class="magic-radio" id="r4" name="question1" value="4"><label for="r4">D.沃斯卡娅工业区集团</label>
+	   </div>
+	   <div class="answerDescription">秩序之光所在的费斯卡集团位于印度南部，为了让更多的城市进入到所谓的“秩序”当中，费斯卡集团有时不惜采用一些极端手段，譬如摧毁城镇……</div>
+	   <div class="questionContainer">
+	    <p class="questionText bold">2、猩猩科学家温斯顿姓氏的由来？</p>
+		<input type="radio" class="magic-radio" id="r5" name="question2" value="1"><label for="r5">A.继承于一位对他影响深远的博士</label>
+		<input type="radio" class="magic-radio" id="r6" name="question2" value="2"><label for="r6">B.自己的亲生父亲原本就姓温斯顿</label>
+		<input type="radio" class="magic-radio" id="r7" name="question2" value="3"><label for="r7">C.源自于他自己的微信用户名</label>
+		<input type="radio" class="magic-radio" id="r8" name="question2" value="4"><label for="r8">D.他最喜爱的花生酱品牌</label>
+	   </div>
+	   <div class="answerDescription">温斯顿是一头基因改造过的大猩猩，在实验中他展现出了极快地脑部发育迹象，并在哈罗德·温斯顿博士的照顾和教导下学习了先进的科学知识，并成为了科学家们的助手。</div>
+	   <div class="questionContainer">
+	    <p class="questionText bold">3、“士兵：76”从前守望先锋监测站：格兰德台地窃取了一把原型武器作为自己的装备，这把武器是？</p>
+		<input type="radio" class="magic-radio" id="r9" name="question3" value="1"><label for="r9">A.脉冲步枪</label>
+		<input type="radio" class="magic-radio" id="r10" name="question3" value="2"><label for="r10">B.重型脉冲步枪</label>
+		<input type="radio" class="magic-radio" id="r11" name="question3" value="3"><label for="r11">C.喷气式重型脉冲步枪</label>
+		<input type="radio" class="magic-radio" id="r12" name="question3" value="4"><label for="r12">D.阿姆斯特朗回旋加速喷气式重型脉冲步枪</label>
+	   </div>
+	   <div class="answerDescription">在官方新闻当中曾经有报道“士兵：76”袭击前守望先锋基地并窃取了原型重型脉冲步枪。而在官网的角色说明当中，我们同样可以看到关于这把武器的介绍。</div>
+	   <div class="questionContainer">
+	    <p class="questionText bold">4、俄罗斯妹子查莉娅全名叫做亚历山德拉·查莉娅诺娃，她在加入到俄罗斯防御部队成为英雄之前是做什么的？</p>
+		<input type="radio" class="magic-radio" id="r13" name="question4" value="1"><label for="r13">A.保镖</label>
+		<input type="radio" class="magic-radio" id="r14" name="question4" value="2"><label for="r14">B.厨师</label>
+		<input type="radio" class="magic-radio" id="r15" name="question4" value="3"><label for="r15">C.军人</label>
+		<input type="radio" class="magic-radio" id="r16" name="question4" value="4"><label for="r16">D.运动员</label>
+	   </div>
+	   <div class="answerDescription">在官方介绍中，查莉娅曾经是世界上最强壮的女运动员之一。因为智能危机的爆发，查莉娅放弃了即将召开的世锦赛，加入到了俄罗斯防御部队当中。在沃斯卡娅工业区的地图里，我们可以看到当地张贴着查莉娅的海报，展现出查莉娅目前在俄罗斯被人们作为英雄看待。
+	   </div>
+	   <div class="questionContainer">
+	    <p class="questionText bold">5、“猎空”是一位活泼的英国女士，她在英文版本中被叫做“Tracer”，很多人也叫她“闪光”，那么她的本名究竟是？</p>
+		<input type="radio" class="magic-radio" id="r17" name="question5" value="1"><label for="r17">A.布莱克·莉亚</label>
+		<input type="radio" class="magic-radio" id="r18" name="question5" value="2"><label for="r18">B.克里斯汀·奥赛尔</label>
+		<input type="radio" class="magic-radio" id="r19" name="question5" value="3"><label for="r19">C.莉娜·奥克斯顿</label>
+		<input type="radio" class="magic-radio" id="r20" name="question5" value="4"><label for="r20">D.蒂尔里斯</label>
+	   </div>
+	   <div class="answerDescription">莉娜·奥克斯顿是守望先锋原型机试飞计划中最年轻的试飞员，然而她所驾驶的“跃空者”原型机传送阵列出现故障，导致她的身体无法与时间同步。在温斯顿的帮助下，莉娜·奥克斯顿通过一台被称为“时间加速器”的装置解决自己“时空解离”的症状，并凭借此能力成为了一名优秀的守望先锋特工——“猎空”。
+	   </div>
+	   <h2 class="subTitleH2">二、多选题</h2>
+	   <div class="questionContainer">
+	    <p class="questionText bold">6、D.VA宋哈娜都具有哪几种身份？</p>
+		<input type="checkbox" class="magic-radio" id="r21" name="question6" value="1"><label for="r21">A.演员</label>
+		<input type="checkbox" class="magic-radio" id="r22" name="question6" value="2"><label for="r22">B.职业玩家</label>
+		<input type="checkbox" class="magic-radio" id="r23" name="question6" value="3"><label for="r23">C.机甲驾驶员</label>
+		<input type="checkbox" class="magic-radio" id="r24" name="question6" value="4"><label for="r24">D.网络主播</label>
+		<input type="checkbox" class="magic-radio" id="r25" name="question6" value="5"><label for="r25">E.韩国陆军成员</label>
+	   </div>
+	   <div class="answerDescription">在好莱坞地图中，张贴着由“D.VA”宋哈娜主演电影的海报，电影名为“Hero of my storm”。而D.VA本身曾经是一位著名星际争霸电竞选手，因此被选入到韩国陆军特别机动部队当中，通过驾驶机甲来对抗可怕的机械怪兽。与此同时，她最近开始向她的观众们直播自己的战斗行动。
+	   </div>
+	   <div class="questionContainer">
+	    <p class="questionText bold">7、巴西DJ卢西奥有两首最新推出的歌曲深受大家欢迎，它们的名字分别是？</p>
+		<input type="checkbox" class="magic-radio" id="r26" name="question7" value="1"><label for="r26">A.Let’s drop the beat!</label>
+		<input type="checkbox" class="magic-radio" id="r27" name="question7" value="2"><label for="r27">B.Rejuvenescência</label>
+		<input type="checkbox" class="magic-radio" id="r28" name="question7" value="3"><label for="r28">C.We Move Together As One</label>
+		<input type="checkbox" class="magic-radio" id="r29" name="question7" value="4"><label for="r29">D.We are one(Ole Ola)</label>
+		<input type="checkbox" class="magic-radio" id="r30" name="question7" value="5"><label for="r30">E.哦！在这停顿！</label>
+	   </div>
+	   <div class="answerDescription">在《守望先锋》推出新英雄卢西奥时，为了丰满这名DJ的形象，暴雪在新闻中公布了他的一张新专辑，名为《Synaesthesia》。虽然整张专辑是虚拟的，但其中有两首曲子被真实制作了出来，分别名为Rejuvenescência以及We Move Together As One。
+	   </div>
+	   <div class="questionContainer">
+	    <p class="questionText bold">8、以下哪些地图进攻方玩家需要先攻占运载目标所在地点，再将运载目标护送到终点？</p>
+		<input type="checkbox" class="magic-radio" id="r31" name="question8" value="1"><label for="r31">A.多拉多</label>
+		<input type="checkbox" class="magic-radio" id="r32" name="question8" value="2"><label for="r32">B.国王大道</label>
+		<input type="checkbox" class="magic-radio" id="r33" name="question8" value="3"><label for="r33">C.努巴尼</label>
+		<input type="checkbox" class="magic-radio" id="r34" name="question8" value="4"><label for="r34">D.好莱坞</label>
+		<input type="checkbox" class="magic-radio" id="r35" name="question8" value="5"><label for="r35">E.监测站：直布罗陀</label>
+	   </div>
+	   <div class="answerDescription">多拉多和监测站：直布罗陀都是直接护送运载目标的地图。
+	   </div>
+	   <div class="questionContainer">
+	    <p class="questionText bold">9、神秘的“死神”真身很可能是加布里尔·莱耶斯，这位经过强化的士兵都隶属过哪些组织？</p>
+		<input type="checkbox" class="magic-radio" id="r36" name="question9" value="1"><label for="r36">A.守望先锋</label>
+		<input type="checkbox" class="magic-radio" id="r37" name="question9" value="2"><label for="r37">B.暗影守望</label>
+		<input type="checkbox" class="magic-radio" id="r38" name="question9" value="3"><label for="r38">C.“黑爪”</label>
+		<input type="checkbox" class="magic-radio" id="r39" name="question9" value="4"><label for="r39">D.美国军队</label>
+		<input type="checkbox" class="magic-radio" id="r40" name="question9" value="5"><label for="r40">E.“死局帮”</label>
+	   </div>
+	   <div class="answerDescription">加布里尔·莱耶斯与杰克·莫里森都是从美国军方中选拔出来接受“士兵增强计划”的优秀士兵，后来两人共同加入到了守望先锋当中。虽然最早是由莱耶斯领导守望先锋，但后来起到核心作用的莫里森接替了他的位置。而莱耶斯则被安排到了一支被称为“暗影守望”的秘密部队。在以“死神”的形象出现后，他经常会与“黑爪”组织进行合作，但他却并不隶属于这一组织。
+	   </div>
+	   <div class="questionContainer">
+	    <p class="questionText bold">10、作为新手最爱玩的英雄，源氏最害怕的英雄有？</p>
+		<input type="checkbox" class="magic-radio" id="r41" name="question10" value="1"><label for="r41">A.莫伊拉</label>
+		<input type="checkbox" class="magic-radio" id="r42" name="question10" value="2"><label for="r42">B.布里吉塔</label>
+		<input type="checkbox" class="magic-radio" id="r43" name="question10" value="3"><label for="r43">C.秩序之光</label>
+		<input type="checkbox" class="magic-radio" id="r44" name="question10" value="4"><label for="r44">D.黑百合</label>
+		<input type="checkbox" class="magic-radio" id="r45" name="question10" value="5"><label for="r45">E.温斯顿</label>
+	   </div>
+	   <div class="answerDescription">对答案感到迷惑？去玩两把源氏你就知道了！
+	   </div>
+	   <h2 class="subTitleH2">三、你的信息</h2>
+	   <div class="questionContainer displayRow">
+	    <div class="testFormTextContainer displayRow">
+		 <div class="testFormTextTitle">姓名：</div><input type="text" class="testFormText" id="name" name="name">
+		</div>
+		<div class="testFormTextContainer displayRow">
+		 <div class="testFormTextTitle">守望先锋游戏时长：</div><input type="text" class="testFormText" id="time" name="gameTime">
+		</div>
+	   </div>
+	   <div class="testFormButtonContainer displayRow">
+	    <div class="testFormButton" id="submitButton" onclick="getScore();">提交!</div>
+		<div class="testFormButton" id="resetButton" onclick="resetTest();">重头来过</div>
+		<div class="testFormButton" id="historyButton" onclick="getHistory();">查看提交历史</div>
+	   </div>
+	   <div id="modalResponse">
+	   	<div class="modalResponseDetial displayColumn">
+		 <div class="modalResponseDetialText">
+		  恭喜你！你已完成本次测验！
+		 </div>
+		 <div class="modalResponseDetialText">
+		 </div>
+		 <div class="modalResponseDetialText">
+		 </div>
+		 <div class="modalResponseDetialCloseButton">确定</div>
+		</div>
+	   </div>
+	  </form>
+	 </div>
+	 <div id="historyContainer" class="displayColumn hide">
+	  <table id="historySheet">
+	  	<tbody>
+		 <tr>
+		  <th>Rank</th>
+		  <th>姓名</th>
+		  <th>游戏时长</th>
+		  <th>分数</th>
+		 </tr>
+		</tbody>
+	  </table>
+	 </div>
+	</div>
+	<!--TEST_END-->
+   </div>
+   <!--MAINCONTENT_END-->
+   <!--FOOTER_START-->
+   <footer class="displayRow">
+   	<div class="footerContent">Powered By Hyperview</div>
+	<div class="footerContent">Contect Me @ hyperzsb@outlook.com</div>
+   </footer>
+   <!--FOOTER_END-->
+  </div>
+ </body>
+</html>

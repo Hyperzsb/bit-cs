@@ -37,4 +37,4 @@
 - [31. 神奇项链]()
 - [32. 血流成河？血战到底]()
 
-***All updated.***
+***Continually updating...***

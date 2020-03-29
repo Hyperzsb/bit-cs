@@ -2,7 +2,11 @@
 
 **Codes for classes in [School of Computer Science & Technology](http://cs.bit.edu.cn/), [Beijing Institute of Technology](http://www.bit.edu.cn/)**
 
-**Currently includes:**
+This repository is used to provide programming reference to the juniors studying in CS, BIT.
+
+However, plagiarism will never be recommended. Think about everything by yourself at first, and do everything by yourself at last.
+
+**Repository currently includes:**
 
 - **2018**
   - [Fundamentals of Programming-(C) (程序设计基础（C）)](https://github.com/Hyperzsb/BIT/tree/master/2018/fundamentals-of-programming-(C))

@@ -1,4 +1,4 @@
-# 4. Stock Matching System (多项式相乘) <font color=Red>(Buggy)</font>
+# 4. Stock Matching System (股票撮合系统) <font color=Red>(Buggy)</font>
 
 **Description:**
 

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\11_arrange_arms_and_embattle.dir/objects.a
+"D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\ar.exe" cr CMakeFiles\11_arrange_arms_and_embattle.dir/objects.a @CMakeFiles\11_arrange_arms_and_embattle.dir\objects1.rsp
+"D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\11_arrange_arms_and_embattle.dir/objects.a -Wl,--no-whole-archive  -o 11_arrange_arms_and_embattle.exe -Wl,--out-implib,lib11_arrange_arms_and_embattle.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\11_arrange_arms_and_embattle.dir\linklibs.rsp

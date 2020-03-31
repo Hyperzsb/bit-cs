@@ -12,53 +12,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2ab0f1e-63fb-471b-9753-690b3c5ae027" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../exp-11/part-1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../exp-11/part-1/.idea/part-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../exp-11/part-1/counted.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../exp-11/part-1/counted.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../exp-11/part-2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../exp-11/part-2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../exp-11/part-2/.idea/part-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../exp-11/part-2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../exp-11/part-2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../exp-11/part-2/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../exp-11/part-2/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../exp-11/part-2/tree.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../exp-11/part-2/tree.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/.idea/part-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part-1/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/hyper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/part-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesstraveler.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/businesstraveler.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pager.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pager.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/traveler.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/traveler.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/1_feast_at_dalabengba.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/1_feast_at_dalabengba.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/1_feast_at_dalabengba.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/1_feast_at_dalabengba.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/1_feast_at_dalabengba.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/1_feast_at_dalabengba.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/1_feast_at_dalabengba.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/1_feast_at_dalabengba.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/1_feast_at_dalabengba.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/1_feast_at_dalabengba.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019/discrete-mathematics/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2019/discrete-mathematics/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -115,6 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585624941713</updated>
       <workItem from="1585624942881" duration="6978000" />
+      <workItem from="1585651116884" duration="298000" />
     </task>
     <servers />
   </component>
@@ -123,7 +101,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -8,10 +8,10 @@
 
 ### 题目
 
-- [求命题公式的主范式](https://github.com/Hyperzsb/BIT/tree/master/2019/discrete-mathematics/find-normal-forms-of-proposition)
-- [消解算法](https://github.com/Hyperzsb/BIT/tree/master/2019/discrete-mathematics/resolution-algorithm)
-- [求偏序集中的极小元与极大元](https://github.com/Hyperzsb/BIT/tree/master/2019/discrete-mathematics/find-extremal-element-in-poset)
-- [求关系的传递闭包](https://github.com/Hyperzsb/BIT/tree/master/2019/discrete-mathematics/find-transitive-closure-of-relation)
+- [求命题公式的主范式 - (find-normal-forms-of-proposition)](https://github.com/Hyperzsb/BIT/tree/master/2019/discrete-mathematics/find-normal-forms-of-proposition)
+- [消解算法 - (resolution-algorithm)](https://github.com/Hyperzsb/BIT/tree/master/2019/discrete-mathematics/resolution-algorithm)
+- [求偏序集中的极小元与极大元 - (find-extremal-element-in-poset)](https://github.com/Hyperzsb/BIT/tree/master/2019/discrete-mathematics/find-extremal-element-in-poset)
+- [求关系的传递闭包 - (find-transitive-closure-of-relation)](https://github.com/Hyperzsb/BIT/tree/master/2019/discrete-mathematics/find-transitive-closure-of-relation)
 
 **Total Lines:**
 

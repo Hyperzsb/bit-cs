@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-12/part-2/businesstraveler.cpp
+businesstraveler.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-12/part-2/businesstraveler.h
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-12/part-2/businesstraveler.h
+iostream
+-
+string
+-
+traveler.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-12/part-2/traveler.h
+pager.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-12/part-2/pager.h
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-12/part-2/main.cpp
+string
+-
+businesstraveler.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-12/part-2/businesstraveler.h
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-12/part-2/pager.cpp
+pager.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-12/part-2/pager.h
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-12/part-2/pager.h
+string
+-
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-12/part-2/traveler.h
+string
+-
+

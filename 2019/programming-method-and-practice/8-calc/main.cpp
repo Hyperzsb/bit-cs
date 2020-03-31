@@ -81,30 +81,6 @@ char *calaulate(char *num1, int length1, char *num2, int length2, char *ans, cha
                 return ans + isNotZero - 1;
             }
         }
-        /*int isZero=1;
-        for(int i=0;i<length1+1;i++)
-            if(ans[i]!='0')
-                isZero=0;
-        if(isZero){
-            ans[0]='0';
-            ans[1]='\0';
-            return ans;
-        }
-        if(flag){
-            if(ans[1]!='0')
-                return ans+1;
-            else
-                return ans+2;
-        }
-        else{
-            if(ans[1]!='0'){
-                ans[0]='-';
-                return ans;
-            }else{
-                ans[1]='-';
-                return ans+1;
-            }
-        }*/
     } else {
         int jinWei = 0, index = length1 + length2 - 1, tmp = 0;
         memset(ans, '0', length1 + length2);
@@ -154,7 +130,6 @@ int main() {
         } else {
             num1[index1] == '\0';
             num2[index2] == '\0';
-            //printf("%d\n%d\n",index1,index2);
             if ((index1 == 1 && num1[0] == '0' && opt == '*') || (index2 == 1 && num2[0] == '0' && opt == '*')) {
                 printf("0\n");
                 index1 = 0;

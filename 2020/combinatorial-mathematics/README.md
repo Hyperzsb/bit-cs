@@ -8,14 +8,18 @@
 
 ### 题目
 
-- [nim](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/nim)
-- [nim (simplified)](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/nim(simplified))
-- [Creazy tea party](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/crazy-tea-party)
-- [Halloween treats (POJ3370)](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/halloween-treats-(POJ3370))
+- [nim - (nim)](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/nim)
+- [nim (simplified) - (nim(simplified))](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/nim(simplified))
+- [Creazy tea party - (crazy-tea-party)](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/crazy-tea-party)
+- [Halloween treats (POJ3370) - (halloween-treats-(POJ3370))](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/halloween-treats-(POJ3370))
 - Biorhythms (POJ1006)
 - 排列的邻位互换
 - [排列的逆序 - (inverted-sequence-of-arrangement)](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/inverted-sequence-of-arrangement)
-- [Magic Bracelet](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/magic-bracelet)
-- [Magic Bracelet (Simplified)](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/magic-bracelet-(simplified))
+- [Magic Bracelet - (magic-bracelet)](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/magic-bracelet)
+- [Magic Bracelet (Simplified) - (magic-bracelet-(simplified))](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/magic-bracelet-(simplified))
+- Tri Tiling
+- Tri Tiling (Modified)
+- A decorative fence
+- Let it Bead
 
 ***Continually updating...***

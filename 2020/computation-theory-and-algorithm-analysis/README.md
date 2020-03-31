@@ -12,16 +12,20 @@
 - [A*B 问题 - (a-multiply-b)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/a-multiply-b)
 - [油井问题 - (oil-well-problem)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/oil-well-problem)
 - [套圈 - (quoit)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/quoit)
-- 矩阵连乘问题
-- Yogurt factory
+- [矩阵连乘问题 - (matrix-successive-multiplication)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/matrix-successive-multiplication)
+- [Yogurt factory - (yogurt-factory)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/yogurt-factory)
 - Tri Tiling
 - 3.3 Roping the Field
 - 3.6 Jimmy's Bad Day
 - A decorative fence
+- [Maximum consecutive subsquence - (maximum-consecutive-subsequence)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/maximum-consecutive-subsequence)
+- [Longest increasing sub-sequnence - (longest-increasing-subsequence)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/longest-increasing-subsequence)
 - Trees Made to Order
 - 活动调度
 - Gone fishing
 - 小游戏
 - Layout
+- 符号三角形问题
+- 24点问题(增加数据)
 
 ***Continually updating...***

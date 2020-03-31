@@ -13,4 +13,8 @@
 - [求偏序集中的极小元与极大元](https://github.com/Hyperzsb/BIT/tree/master/2019/discrete-mathematics/find-extremal-element-in-poset)
 - [求关系的传递闭包](https://github.com/Hyperzsb/BIT/tree/master/2019/discrete-mathematics/find-transitive-closure-of-relation)
 
+**Total Lines:**
+
+- C++ Source Code: 756
+
 ***All updated.***

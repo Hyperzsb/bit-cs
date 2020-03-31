@@ -7,7 +7,6 @@
 ### 题目
 
 - [1. 约瑟夫问题 - (1-josephus-problem)](https://github.com/Hyperzsb/BIT/tree/master/2019/data-structure/1-josephus-problem)
-
 - [2. 验证表 - (2-verification-table)](https://github.com/Hyperzsb/BIT/tree/master/2019/data-structure/2-verification-table)
 - [3. 求循环小数 - (3-find-circular-decimal)](https://github.com/Hyperzsb/BIT/tree/master/2019/data-structure/3-find-circular-decimal)
 - [1. 飞机场调度 - (1-airport-control)](https://github.com/Hyperzsb/BIT/tree/master/2019/data-structure/1-airport-control)
@@ -40,5 +39,9 @@
 - [2. 竞选海报 - (2-campaign-poster)](https://github.com/Hyperzsb/BIT/tree/master/2019/data-structure/2-campaign-poster)
 - [3. 验证表 - (3-verification-table)](https://github.com/Hyperzsb/BIT/tree/master/2019/data-structure/3-verification-table)
 - [1. 堆排序 - (1-heap-sort)](https://github.com/Hyperzsb/BIT/tree/master/2019/data-structure/1-heap-sort)
+
+**Total Lines:**
+
+- C++ Source Code: 5094
 
 ***All updated.***

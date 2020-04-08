@@ -1,3 +1,0 @@
-E:/Private Files/BIT/2020/combinatorial-mathematics/halloween-treats-(POJ3370)/cmake-build-debug/CMakeFiles/halloween_treats__POJ3370_.dir
-E:/Private Files/BIT/2020/combinatorial-mathematics/halloween-treats-(POJ3370)/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Private Files/BIT/2020/combinatorial-mathematics/halloween-treats-(POJ3370)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

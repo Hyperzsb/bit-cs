@@ -1,3 +1,0 @@
-E:/Private Files/BIT/2020/combinatorial-mathematics/magic-bracelet/cmake-build-debug/CMakeFiles/magic_bracelet.dir
-E:/Private Files/BIT/2020/combinatorial-mathematics/magic-bracelet/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Private Files/BIT/2020/combinatorial-mathematics/magic-bracelet/cmake-build-debug/CMakeFiles/rebuild_cache.dir

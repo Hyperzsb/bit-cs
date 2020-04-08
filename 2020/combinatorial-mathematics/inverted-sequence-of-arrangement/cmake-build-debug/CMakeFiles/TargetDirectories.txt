@@ -1,3 +1,0 @@
-E:/Private Files/BIT/2020/combinatorial-mathematics/inverted-sequence-of-arrangement/cmake-build-debug/CMakeFiles/inverted_sequence_of_arrangement.dir
-E:/Private Files/BIT/2020/combinatorial-mathematics/inverted-sequence-of-arrangement/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Private Files/BIT/2020/combinatorial-mathematics/inverted-sequence-of-arrangement/cmake-build-debug/CMakeFiles/rebuild_cache.dir

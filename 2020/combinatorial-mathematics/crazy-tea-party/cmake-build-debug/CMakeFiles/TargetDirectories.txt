@@ -1,3 +1,0 @@
-E:/Private Files/C_C++/2020/combinatorial-mathematics/crazy-tea-party/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Private Files/C_C++/2020/combinatorial-mathematics/crazy-tea-party/cmake-build-debug/CMakeFiles/crazy_tea_party.dir
-E:/Private Files/C_C++/2020/combinatorial-mathematics/crazy-tea-party/cmake-build-debug/CMakeFiles/rebuild_cache.dir

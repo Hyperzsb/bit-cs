@@ -1,0 +1,84 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/employee.cpp
+employee.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/employee.h
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/employee.h
+iostream
+-
+string
+-
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/main.cpp
+iostream
+-
+string
+-
+employee.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/employee.h
+technician.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/technician.h
+salesman.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/salesman.h
+manager.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/manager.h
+salesmanager.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/salesmanager.h
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/manager.cpp
+manager.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/manager.h
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/manager.h
+iostream
+-
+string
+-
+employee.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/employee.h
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/salesman.cpp
+salesman.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/salesman.h
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/salesman.h
+iostream
+-
+string
+-
+employee.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/employee.h
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/salesmanager.cpp
+salesmanager.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/salesmanager.h
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/salesmanager.h
+iostream
+-
+string
+-
+manager.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/manager.h
+salesman.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/salesman.h
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/technician.cpp
+technician.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/technician.h
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/technician.h
+iostream
+-
+string
+-
+employee.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-14/employee.h
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-15/car.cpp
+car.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-15/car.h
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-15/car.h
+vehicle.h
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-15/vehicle.h
+
+E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-15/vehicle.h
+

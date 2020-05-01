@@ -47,10 +47,10 @@ RM = C:\Users\hyper\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.6668.126
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "E:\Private Files\BIT\2020\object-oriented-technology-and-methods\exp-15"
+CMAKE_SOURCE_DIR = E:\private-files\BIT\2020\cryptography\task-1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "E:\Private Files\BIT\2020\object-oriented-technology-and-methods\exp-15\cmake-build-debug"
+CMAKE_BINARY_DIR = E:\private-files\BIT\2020\cryptography\task-1\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Private Files\BIT\2020\object-oriented-technology-and-methods\exp-15\cmake-build-debug\CMakeFiles" "E:\Private Files\BIT\2020\object-oriented-technology-and-methods\exp-15\cmake-build-debug\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\private-files\BIT\2020\cryptography\task-1\cmake-build-debug\CMakeFiles E:\private-files\BIT\2020\cryptography\task-1\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Private Files\BIT\2020\object-oriented-technology-and-methods\exp-15\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\private-files\BIT\2020\cryptography\task-1\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -110,44 +110,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named exp_15
+# Target rules for targets named task_1
 
 # Build rule for target.
-exp_15: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 exp_15
-.PHONY : exp_15
+task_1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 task_1
+.PHONY : task_1
 
 # fast build rule for target.
-exp_15/fast:
-	$(MAKE) -f CMakeFiles\exp_15.dir\build.make CMakeFiles/exp_15.dir/build
-.PHONY : exp_15/fast
-
-car.obj: car.cpp.obj
-
-.PHONY : car.obj
-
-# target to build an object file
-car.cpp.obj:
-	$(MAKE) -f CMakeFiles\exp_15.dir\build.make CMakeFiles/exp_15.dir/car.cpp.obj
-.PHONY : car.cpp.obj
-
-car.i: car.cpp.i
-
-.PHONY : car.i
-
-# target to preprocess a source file
-car.cpp.i:
-	$(MAKE) -f CMakeFiles\exp_15.dir\build.make CMakeFiles/exp_15.dir/car.cpp.i
-.PHONY : car.cpp.i
-
-car.s: car.cpp.s
-
-.PHONY : car.s
-
-# target to generate assembly for a file
-car.cpp.s:
-	$(MAKE) -f CMakeFiles\exp_15.dir\build.make CMakeFiles/exp_15.dir/car.cpp.s
-.PHONY : car.cpp.s
+task_1/fast:
+	$(MAKE) -f CMakeFiles\task_1.dir\build.make CMakeFiles/task_1.dir/build
+.PHONY : task_1/fast
 
 main.obj: main.cpp.obj
 
@@ -155,7 +128,7 @@ main.obj: main.cpp.obj
 
 # target to build an object file
 main.cpp.obj:
-	$(MAKE) -f CMakeFiles\exp_15.dir\build.make CMakeFiles/exp_15.dir/main.cpp.obj
+	$(MAKE) -f CMakeFiles\task_1.dir\build.make CMakeFiles/task_1.dir/main.cpp.obj
 .PHONY : main.cpp.obj
 
 main.i: main.cpp.i
@@ -164,7 +137,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) -f CMakeFiles\exp_15.dir\build.make CMakeFiles/exp_15.dir/main.cpp.i
+	$(MAKE) -f CMakeFiles\task_1.dir\build.make CMakeFiles/task_1.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -173,62 +146,8 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) -f CMakeFiles\exp_15.dir\build.make CMakeFiles/exp_15.dir/main.cpp.s
+	$(MAKE) -f CMakeFiles\task_1.dir\build.make CMakeFiles/task_1.dir/main.cpp.s
 .PHONY : main.cpp.s
-
-plane.obj: plane.cpp.obj
-
-.PHONY : plane.obj
-
-# target to build an object file
-plane.cpp.obj:
-	$(MAKE) -f CMakeFiles\exp_15.dir\build.make CMakeFiles/exp_15.dir/plane.cpp.obj
-.PHONY : plane.cpp.obj
-
-plane.i: plane.cpp.i
-
-.PHONY : plane.i
-
-# target to preprocess a source file
-plane.cpp.i:
-	$(MAKE) -f CMakeFiles\exp_15.dir\build.make CMakeFiles/exp_15.dir/plane.cpp.i
-.PHONY : plane.cpp.i
-
-plane.s: plane.cpp.s
-
-.PHONY : plane.s
-
-# target to generate assembly for a file
-plane.cpp.s:
-	$(MAKE) -f CMakeFiles\exp_15.dir\build.make CMakeFiles/exp_15.dir/plane.cpp.s
-.PHONY : plane.cpp.s
-
-ship.obj: ship.cpp.obj
-
-.PHONY : ship.obj
-
-# target to build an object file
-ship.cpp.obj:
-	$(MAKE) -f CMakeFiles\exp_15.dir\build.make CMakeFiles/exp_15.dir/ship.cpp.obj
-.PHONY : ship.cpp.obj
-
-ship.i: ship.cpp.i
-
-.PHONY : ship.i
-
-# target to preprocess a source file
-ship.cpp.i:
-	$(MAKE) -f CMakeFiles\exp_15.dir\build.make CMakeFiles/exp_15.dir/ship.cpp.i
-.PHONY : ship.cpp.i
-
-ship.s: ship.cpp.s
-
-.PHONY : ship.s
-
-# target to generate assembly for a file
-ship.cpp.s:
-	$(MAKE) -f CMakeFiles\exp_15.dir\build.make CMakeFiles/exp_15.dir/ship.cpp.s
-.PHONY : ship.cpp.s
 
 # Help Target
 help:
@@ -236,21 +155,12 @@ help:
 	@echo ... all (the default if no target is provided)
 	@echo ... clean
 	@echo ... depend
-	@echo ... exp_15
 	@echo ... edit_cache
+	@echo ... task_1
 	@echo ... rebuild_cache
-	@echo ... car.obj
-	@echo ... car.i
-	@echo ... car.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
-	@echo ... plane.obj
-	@echo ... plane.i
-	@echo ... plane.s
-	@echo ... ship.obj
-	@echo ... ship.i
-	@echo ... ship.s
 .PHONY : help
 
 

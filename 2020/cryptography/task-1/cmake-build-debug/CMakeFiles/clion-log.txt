@@ -1,4 +1,4 @@
-C:\Users\hyper\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.6668.126\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "E:\Private Files\BIT\2020\object-oriented-technology-and-methods\exp-15"
+C:\Users\hyper\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.6668.126\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\private-files\BIT\2020\cryptography\task-1
 -- The C compiler identification is GNU 4.9.2
 -- The CXX compiler identification is GNU 4.9.2
 -- Check for working C compiler: D:/Program Files (x86)/Dev-Cpp/MinGW64/bin/gcc.exe
@@ -15,4 +15,4 @@ C:\Users\hyper\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.6668.126\bin\
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-15/cmake-build-debug
+-- Build files have been written to: E:/private-files/BIT/2020/cryptography/task-1/cmake-build-debug

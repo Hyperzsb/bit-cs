@@ -1,3 +1,0 @@
-C:\Users\hyper\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.6668.126\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\task_1.dir/objects.a
-"D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\ar.exe" cr CMakeFiles\task_1.dir/objects.a @CMakeFiles\task_1.dir\objects1.rsp
-"D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\task_1.dir/objects.a -Wl,--no-whole-archive  -o task_1.exe -Wl,--out-implib,libtask_1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\task_1.dir\linklibs.rsp

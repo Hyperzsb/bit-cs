@@ -1,0 +1,63 @@
+m255
+K4
+z2
+!s11f vlog 2019.2 2019.04, Apr 17 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/private-files/BIT/2020/digital-logic/exp-2/verilog
+vpow3
+Z1 !s110 1589079646
+!i10b 1
+!s100 95i@GaZE?heedjBDASl?J2
+!s11b 62Q4B<LJ1i[T;<UBKDzVo3
+IN`E8@[Zb5ej>0DTC1@L]k3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1589077223
+8pow3.v
+Fpow3.v
+L0 1
+Z3 OL;L;2019.2;69
+r1
+!s85 0
+31
+Z4 !s108 1589079646.000000
+Z5 !s107 pow3.v|E:/private-files/BIT/2020/digital-logic/exp-2/verilog/tpow3.v|
+Z6 !s90 -reportprogress|300|-work|work|E:/private-files/BIT/2020/digital-logic/exp-2/verilog/tpow3.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+vtpow3
+R1
+!i10b 1
+!s100 N[EW?V:6U@G054k3hJ6Nc3
+!s11b T1>h02?@USbdf4Z_XQY[c1
+I@OSYRazkbg>XaD[f:io6T3
+R2
+R0
+w1589078075
+8E:/private-files/BIT/2020/digital-logic/exp-2/verilog/tpow3.v
+FE:/private-files/BIT/2020/digital-logic/exp-2/verilog/tpow3.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+Ttpow3_opt
+!s110 1589079671
+VM>1]X5UgAW8a>`2GGI`oS3
+04 5 4 work tpow3 fast 0
+o+acc
+R8
+ntpow3_opt
+OL;O;2019.2;69

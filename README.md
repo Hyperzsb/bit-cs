@@ -9,7 +9,7 @@ However, plagiarism will never be recommended. Think about everything by yoursel
 **Repository currently includes:**
 
 - **2018**
-  - **[Fundamentals of Programming-(C) (程序设计基础（C）)](https://github.com/Hyperzsb/BIT/tree/master/2018/fundamentals-of-programming-(C))**
+  - **[Fundamentals of Programming (C) (程序设计基础（C）)](https://github.com/Hyperzsb/BIT/tree/master/2018/fundamentals-of-programming-(C))**
 
 - **2019**
   - **[Data Structure (数据结构)](https://github.com/Hyperzsb/BIT/tree/master/2019/data-structure)**

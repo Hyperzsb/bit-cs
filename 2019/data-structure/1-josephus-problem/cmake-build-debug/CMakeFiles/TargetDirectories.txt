@@ -1,3 +1,0 @@
-E:/Private Files/BIT/2019/data-structure/1-josephus-problem/cmake-build-debug/CMakeFiles/1_josephus_problem.dir
-E:/Private Files/BIT/2019/data-structure/1-josephus-problem/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Private Files/BIT/2019/data-structure/1-josephus-problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

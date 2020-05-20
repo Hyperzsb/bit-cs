@@ -1,3 +1,0 @@
-E:/Private Files/BIT/2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/1_feast_at_dalabengba.dir
-E:/Private Files/BIT/2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Private Files/BIT/2019/programming-method-and-practice/1-feast-at-dalabengba/cmake-build-debug/CMakeFiles/rebuild_cache.dir

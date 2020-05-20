@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.15)
-project(32_shed_blood_like_water_or_fight_to_the_bitter_end)
-
-set(CMAKE_CXX_STANDARD 14)
-
-add_executable(32_shed_blood_like_water_or_fight_to_the_bitter_end main.cpp)

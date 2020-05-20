@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.15)
-project(3_convert_expression_from_infix_to_suffix)
-
-set(CMAKE_CXX_STANDARD 14)
-
-add_executable(3_convert_expression_from_infix_to_suffix main.cpp)

@@ -1,3 +1,0 @@
-E:/Private Files/BIT/2019/programming-method-and-practice/18-hit-off/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Private Files/BIT/2019/programming-method-and-practice/18-hit-off/cmake-build-debug/CMakeFiles/18_hit_off.dir
-E:/Private Files/BIT/2019/programming-method-and-practice/18-hit-off/cmake-build-debug/CMakeFiles/rebuild_cache.dir

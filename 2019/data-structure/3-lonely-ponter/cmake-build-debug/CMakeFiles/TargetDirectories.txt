@@ -1,3 +1,0 @@
-E:/Private Files/BIT/2019/data-structure/3-lonely-ponter/cmake-build-debug/CMakeFiles/3_lonely_ponter.dir
-E:/Private Files/BIT/2019/data-structure/3-lonely-ponter/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Private Files/BIT/2019/data-structure/3-lonely-ponter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

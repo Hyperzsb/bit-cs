@@ -1,3 +1,0 @@
-E:/Private Files/BIT/2019/discrete-mathematics/find-extremal-element-in-poset/cmake-build-debug/CMakeFiles/find_extremal_element_in_poset.dir
-E:/Private Files/BIT/2019/discrete-mathematics/find-extremal-element-in-poset/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Private Files/BIT/2019/discrete-mathematics/find-extremal-element-in-poset/cmake-build-debug/CMakeFiles/rebuild_cache.dir

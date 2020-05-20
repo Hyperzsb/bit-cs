@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\26_beauty_degree.dir/objects.a
-"D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\ar.exe" cr CMakeFiles\26_beauty_degree.dir/objects.a @CMakeFiles\26_beauty_degree.dir\objects1.rsp
-"D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\26_beauty_degree.dir/objects.a -Wl,--no-whole-archive  -o 26_beauty_degree.exe -Wl,--out-implib,lib26_beauty_degree.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\26_beauty_degree.dir\linklibs.rsp

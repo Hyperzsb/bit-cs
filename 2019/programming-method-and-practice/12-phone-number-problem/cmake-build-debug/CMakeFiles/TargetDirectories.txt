@@ -1,3 +1,0 @@
-E:/Private Files/BIT/2019/programming-method-and-practice/12-phone-number-problem/cmake-build-debug/CMakeFiles/12_phone_number_problem.dir
-E:/Private Files/BIT/2019/programming-method-and-practice/12-phone-number-problem/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Private Files/BIT/2019/programming-method-and-practice/12-phone-number-problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

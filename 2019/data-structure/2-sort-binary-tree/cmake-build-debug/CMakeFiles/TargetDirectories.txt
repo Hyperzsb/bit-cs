@@ -1,3 +1,0 @@
-E:/Private Files/BIT/2019/data-structure/2-sort-binary-tree/cmake-build-debug/CMakeFiles/2_sort_binary_tree.dir
-E:/Private Files/BIT/2019/data-structure/2-sort-binary-tree/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Private Files/BIT/2019/data-structure/2-sort-binary-tree/cmake-build-debug/CMakeFiles/rebuild_cache.dir

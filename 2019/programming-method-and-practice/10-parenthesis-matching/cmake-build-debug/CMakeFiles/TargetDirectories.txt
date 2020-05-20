@@ -1,3 +1,0 @@
-E:/Private Files/BIT/2019/programming-method-and-practice/10-parenthesis-matching/cmake-build-debug/CMakeFiles/10_parenthesis_matching.dir
-E:/Private Files/BIT/2019/programming-method-and-practice/10-parenthesis-matching/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Private Files/BIT/2019/programming-method-and-practice/10-parenthesis-matching/cmake-build-debug/CMakeFiles/rebuild_cache.dir

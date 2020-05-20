@@ -1,3 +1,0 @@
-E:/Private Files/BIT/2019/data-structure/1-calculate-wpl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-E:/Private Files/BIT/2019/data-structure/1-calculate-wpl/cmake-build-debug/CMakeFiles/1_calculate_wpl.dir
-E:/Private Files/BIT/2019/data-structure/1-calculate-wpl/cmake-build-debug/CMakeFiles/edit_cache.dir

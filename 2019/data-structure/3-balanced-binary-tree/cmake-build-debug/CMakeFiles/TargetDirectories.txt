@@ -1,3 +1,0 @@
-E:/Private Files/BIT/2019/data-structure/3-balanced-binary-tree/cmake-build-debug/CMakeFiles/3_balanced_binary_tree.dir
-E:/Private Files/BIT/2019/data-structure/3-balanced-binary-tree/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Private Files/BIT/2019/data-structure/3-balanced-binary-tree/cmake-build-debug/CMakeFiles/rebuild_cache.dir

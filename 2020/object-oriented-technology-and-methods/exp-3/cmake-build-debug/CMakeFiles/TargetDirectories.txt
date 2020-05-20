@@ -1,3 +1,0 @@
-E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-3/cmake-build-debug/CMakeFiles/exp_3.dir
-E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-3/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Private Files/BIT/2020/object-oriented-technology-and-methods/exp-3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

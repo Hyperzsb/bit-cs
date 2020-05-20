@@ -1,3 +1,0 @@
-E:/Private Files/BIT/2019/data-structure/2-verification-table/cmake-build-debug/CMakeFiles/2_verification_table.dir
-E:/Private Files/BIT/2019/data-structure/2-verification-table/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Private Files/BIT/2019/data-structure/2-verification-table/cmake-build-debug/CMakeFiles/rebuild_cache.dir

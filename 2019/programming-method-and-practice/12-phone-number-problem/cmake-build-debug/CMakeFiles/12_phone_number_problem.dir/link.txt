@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\12_phone_number_problem.dir/objects.a
-"D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\ar.exe" cr CMakeFiles\12_phone_number_problem.dir/objects.a @CMakeFiles\12_phone_number_problem.dir\objects1.rsp
-"D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\12_phone_number_problem.dir/objects.a -Wl,--no-whole-archive  -o 12_phone_number_problem.exe -Wl,--out-implib,lib12_phone_number_problem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\12_phone_number_problem.dir\linklibs.rsp

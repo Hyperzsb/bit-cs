@@ -1,3 +1,0 @@
-E:/Private Files/BIT/2019/discrete-mathematics/find-transitive-closure-of-relation/cmake-build-debug/CMakeFiles/find_transitive_closure_of_relation.dir
-E:/Private Files/BIT/2019/discrete-mathematics/find-transitive-closure-of-relation/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Private Files/BIT/2019/discrete-mathematics/find-transitive-closure-of-relation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

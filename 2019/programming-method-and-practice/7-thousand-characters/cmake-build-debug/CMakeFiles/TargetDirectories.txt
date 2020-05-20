@@ -1,3 +1,0 @@
-E:/Private Files/BIT/2019/programming-method-and-practice/7-thousand-characters/cmake-build-debug/CMakeFiles/7_thousand_characters.dir
-E:/Private Files/BIT/2019/programming-method-and-practice/7-thousand-characters/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Private Files/BIT/2019/programming-method-and-practice/7-thousand-characters/cmake-build-debug/CMakeFiles/rebuild_cache.dir

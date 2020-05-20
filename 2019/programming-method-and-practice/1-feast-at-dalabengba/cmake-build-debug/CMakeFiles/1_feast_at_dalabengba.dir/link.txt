@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\1_feast_at_dalabengba.dir/objects.a
-"D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\ar.exe" cr CMakeFiles\1_feast_at_dalabengba.dir/objects.a @CMakeFiles\1_feast_at_dalabengba.dir\objects1.rsp
-"D:\Program Files (x86)\Dev-Cpp\MinGW64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\1_feast_at_dalabengba.dir/objects.a -Wl,--no-whole-archive  -o 1_feast_at_dalabengba.exe -Wl,--out-implib,lib1_feast_at_dalabengba.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1_feast_at_dalabengba.dir\linklibs.rsp

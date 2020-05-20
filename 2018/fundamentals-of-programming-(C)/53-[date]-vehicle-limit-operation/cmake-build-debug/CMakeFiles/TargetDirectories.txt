@@ -1,3 +1,0 @@
-E:/Private Files/BIT/2018/fundamentals-of-programming-(C)/53-[date]-vehicle-limit-operation/cmake-build-debug/CMakeFiles/53__date__vehicle_limit_operation.dir
-E:/Private Files/BIT/2018/fundamentals-of-programming-(C)/53-[date]-vehicle-limit-operation/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Private Files/BIT/2018/fundamentals-of-programming-(C)/53-[date]-vehicle-limit-operation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

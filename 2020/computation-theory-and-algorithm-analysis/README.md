@@ -14,8 +14,8 @@
 - [套圈 - (quoit)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/quoit)
 - [矩阵连乘问题 - (matrix-successive-multiplication)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/matrix-successive-multiplication)
 - [Yogurt factory - (yogurt-factory)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/yogurt-factory)
-- Tri Tiling
-- 3.3 Roping the Field
+- [Tri Tiling - (tri-tiling)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/tri-tiling)
+- [3.3 Roping the Field - (roping-the-field)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/roping-the-field)
 - 3.6 Jimmy's Bad Day
 - A decorative fence
 - [Maximum consecutive subsquence - (maximum-consecutive-subsequence)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/maximum-consecutive-subsequence)
@@ -27,5 +27,14 @@
 - Layout
 - 符号三角形问题
 - 24点问题(增加数据)
+- 木板墙
+- 木板墙（加强版）
+- Guardian of Decency
+- 任务分配问题
+- [DFA - (dfa)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/dfa)
+
+### 考试
+
+- [exam - (exam)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/exam)
 
 ***Continually updating...***

@@ -17,7 +17,7 @@
 - [排列的逆序 - (inverted-sequence-of-arrangement)](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/inverted-sequence-of-arrangement)
 - [Magic Bracelet - (magic-bracelet)](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/magic-bracelet)
 - [Magic Bracelet (Simplified) - (magic-bracelet-(simplified))](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/magic-bracelet-(simplified))
-- Tri Tiling
+- [Tri Tiling](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/tri-tiling)
 - Tri Tiling (Modified)
 - A decorative fence
 - Let it Bead

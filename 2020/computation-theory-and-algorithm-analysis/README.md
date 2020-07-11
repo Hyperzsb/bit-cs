@@ -8,7 +8,7 @@
 
 ### 题目
 
-- [Cable master](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/cable-master)
+- [Cable master - (cable-master)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/cable-master)
 - [A*B 问题 - (a-multiply-b)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/a-multiply-b)
 - [油井问题 - (oil-well-problem)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/oil-well-problem)
 - [套圈 - (quoit)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/quoit)

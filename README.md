@@ -22,6 +22,7 @@ However, plagiarism will never be recommended. Think about everything by yoursel
   - **[Computation Theory and Algorithm Analysis (计算原理与算法分析)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis)**
   - **[Database Principle and Design (数据库原理与设计)](https://github.com/Hyperzsb/BIT/tree/master/2020/database-principle-and-design)**
   - **[Digital Logic (数字逻辑)](https://github.com/Hyperzsb/BIT/tree/master/2020/digital-logic)**
+  - [**Discrete Mathematics (离散数学)**](https://github.com/Hyperzsb/BIT/tree/master/2020/discrete-mathematics)
   - **[Object Oriented Technology and Methods (面向对象技术与方法)](https://github.com/Hyperzsb/BIT/tree/master/2020/object-oriented-technology-and-methods)**
 
 ***Continually updating...***

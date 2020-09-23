@@ -1,5 +1,6 @@
 # 2020
 
+- [**计算机专业基础实习**](https://github.com/Hyperzsb/BIT/tree/master/2020/basic-practice-of-computer-science)
 - [**组合数学（combinatorial-mathematics）**](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics)
 - [**计算理论与算法分析（computation-theory-and-algorithm-analysis）**](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis)
 - **[数据库原理与设计（database-principle-and-design）](https://github.com/Hyperzsb/BIT/tree/master/2020/database-principle-and-design)**

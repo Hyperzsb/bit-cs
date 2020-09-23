@@ -10,7 +10,6 @@ However, plagiarism will never be recommended. Think about everything by yoursel
 
 - **2018**
   - **[Fundamentals of Programming (C) (程序设计基础（C）)](https://github.com/Hyperzsb/BIT/tree/master/2018/fundamentals-of-programming-(C))**
-
 - **2019**
   - **[Data Structure (数据结构)](https://github.com/Hyperzsb/BIT/tree/master/2019/data-structure)**
   - **[Discrete Mathematics (离散数学)](https://github.com/Hyperzsb/BIT/tree/master/2019/discrete-mathematics)**
@@ -18,6 +17,7 @@ However, plagiarism will never be recommended. Think about everything by yoursel
   - **[Java Programming (Java语言程序设计)](https://github.com/Hyperzsb/BIT/tree/master/2019/java-programming)**
   - **[Programming Method and Practice (程序设计方法与实践)](https://github.com/Hyperzsb/BIT/tree/master/2019/programming-method-and-practice)**
 - **2020**
+  - **[Basic Practice of Computer Science (计算机专业基础实习)](https://github.com/Hyperzsb/BIT/tree/master/2020/basic-practice-of-computer-science)**
   - **[Combinatorial Mathematics (组合数学)](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics)**
   - **[Computation Theory and Algorithm Analysis (计算原理与算法分析)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis)**
   - **[Database Principle and Design (数据库原理与设计)](https://github.com/Hyperzsb/BIT/tree/master/2020/database-principle-and-design)**

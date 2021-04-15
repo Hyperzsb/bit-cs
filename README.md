@@ -24,5 +24,7 @@ However, plagiarism will never be recommended. Think about everything by yoursel
   - **[Digital Logic (数字逻辑)](https://github.com/Hyperzsb/BIT/tree/master/2020/digital-logic)**
   - [**Discrete Mathematics (离散数学)**](https://github.com/Hyperzsb/BIT/tree/master/2020/discrete-mathematics)
   - **[Object Oriented Technology and Methods (面向对象技术与方法)](https://github.com/Hyperzsb/BIT/tree/master/2020/object-oriented-technology-and-methods)**
+  - **[Operating System Course Project (操作系统课程设计)](https://github.com/Hyperzsb/BIT/tree/master/2020/operating-system-course-project)**
 
 ***Continually updating...***
+

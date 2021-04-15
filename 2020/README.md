@@ -7,4 +7,5 @@
 - [**数字逻辑（digital-logic）**](https://github.com/Hyperzsb/BIT/tree/master/2020/digital-logic)
 - [**离散数学（discrete-mathematics）**](https://github.com/Hyperzsb/BIT/tree/master/2020/discrete-mathematics)
 - [**面向对象技术与方法（object-oriented-technology-and-methods）**](https://github.com/Hyperzsb/BIT/tree/master/2020/object-oriented-technology-and-methods)
+- [**操作系统课程设计（operating-system-course-project）**](https://github.com/Hyperzsb/BIT/tree/master/2020/operating-system-course-project)
 

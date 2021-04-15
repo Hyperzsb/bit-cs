@@ -1,0 +1,10 @@
+C:\Users\Hyperzsb\source\repos\exp-3\exp-3\bin\Debug\exp-3.exe.config
+C:\Users\Hyperzsb\source\repos\exp-3\exp-3\bin\Debug\exp-3.exe
+C:\Users\Hyperzsb\source\repos\exp-3\exp-3\bin\Debug\exp-3.pdb
+C:\Users\Hyperzsb\source\repos\exp-3\exp-3\obj\Debug\exp-3.csprojAssemblyReference.cache
+C:\Users\Hyperzsb\source\repos\exp-3\exp-3\obj\Debug\exp_3.Form1.resources
+C:\Users\Hyperzsb\source\repos\exp-3\exp-3\obj\Debug\exp_3.Properties.Resources.resources
+C:\Users\Hyperzsb\source\repos\exp-3\exp-3\obj\Debug\exp-3.csproj.GenerateResource.cache
+C:\Users\Hyperzsb\source\repos\exp-3\exp-3\obj\Debug\exp-3.csproj.CoreCompileInputs.cache
+C:\Users\Hyperzsb\source\repos\exp-3\exp-3\obj\Debug\exp-3.exe
+C:\Users\Hyperzsb\source\repos\exp-3\exp-3\obj\Debug\exp-3.pdb

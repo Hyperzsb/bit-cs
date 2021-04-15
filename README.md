@@ -6,6 +6,8 @@ This repository is used to provide programming reference to the juniors studying
 
 However, plagiarism will never be recommended. Think about everything by yourself at first, and do everything by yourself at last.
 
+## Table of Contents
+
 **Repository currently includes:**
 
 - **2018**
@@ -29,3 +31,6 @@ However, plagiarism will never be recommended. Think about everything by yoursel
 
 ***Continually updating...***
 
+## LICENSE
+
+This project is under [MIT license](https://github.com/Hyperzsb/BIT/tree/master/LICENSE).

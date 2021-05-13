@@ -8,7 +8,13 @@ However, plagiarism will never be recommended. Think about everything by yoursel
 
 ## Table of Contents
 
-**Repository currently includes:**
+- [Courses](https://github.com/Hyperzsb/BIT#courses)
+- [Call for Contribution](https://github.com/Hyperzsb/BIT#call-for-contribution)
+- [License](https://github.com/Hyperzsb/BIT#license)
+
+## Courses
+
+**Repository currently includes following courses:**
 
 - **2018**
   - **[Fundamentals of Programming (C) (程序设计基础（C）)](https://github.com/Hyperzsb/BIT/tree/master/2018/fundamentals-of-programming-(C))**
@@ -30,6 +36,12 @@ However, plagiarism will never be recommended. Think about everything by yoursel
   - **[Operating System Course Project (操作系统课程设计)](https://github.com/Hyperzsb/BIT/tree/master/2020/operating-system-course-project)**
 
 ***Continually updating...***
+
+## Call for Contribution
+
+If you are a student studying in School of CS, BIT, I wish you can help me to improve this repository. Your contribution will definitely benefits every junior sutdents in the future.
+
+To make your own contribution, you can just fork this repository and create pull request, or [contact me](mailto:hyperzsb@outlook.com) for other methods.
 
 ## LICENSE
 

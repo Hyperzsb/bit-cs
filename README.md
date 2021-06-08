@@ -1,20 +1,21 @@
 # BIT
 
-**Codes for classes in [School of Computer Science & Technology](http://cs.bit.edu.cn/), [Beijing Institute of Technology](http://www.bit.edu.cn/)**
+**Codes and other resources of courses offered in [School of Computer Science & Technology](http://cs.bit.edu.cn/), [Beijing Institute of Technology](http://www.bit.edu.cn/) in undergraduate stage.**
 
-This repository is used to provide programming reference to the juniors studying in CS, BIT.
+This repository is used to provide programming and learning reference to the juniors studying in CS, BIT.
 
-However, plagiarism will never be recommended. Think about everything by yourself at first, and do everything by yourself at last.
+:warning: However, plagiarism will never be recommended. Think about everything by yourself at first, and do everything by yourself at last. :warning:
 
 ## Table of Contents
 
 - [Courses](https://github.com/Hyperzsb/BIT#courses)
 - [Call for Contribution](https://github.com/Hyperzsb/BIT#call-for-contribution)
+- [Declaration](https://github.com/Hyperzsb/BIT#declaration)
 - [License](https://github.com/Hyperzsb/BIT#license)
 
 ## Courses
 
-**Repository currently includes following courses:**
+**This repository currently includes codes of following courses:**
 
 - **2018**
   - **[Fundamentals of Programming (C) (程序设计基础（C）)](https://github.com/Hyperzsb/BIT/tree/master/2018/fundamentals-of-programming-(C))**
@@ -34,6 +35,15 @@ However, plagiarism will never be recommended. Think about everything by yoursel
   - [**Discrete Mathematics (离散数学)**](https://github.com/Hyperzsb/BIT/tree/master/2020/discrete-mathematics)
   - **[Object Oriented Technology and Methods (面向对象技术与方法)](https://github.com/Hyperzsb/BIT/tree/master/2020/object-oriented-technology-and-methods)**
   - **[Operating System Course Project (操作系统课程设计)](https://github.com/Hyperzsb/BIT/tree/master/2020/operating-system-course-project)**
+  - **[Security Protocol Analysis (安全协议分析)](https://github.com/Hyperzsb/BIT/tree/master/2020/security-protocol-analysis)**
+  - **[Software Test (软件测试)](https://github.com/Hyperzsb/BIT/tree/master/2020/software-test)**
+
+**And review outlines & notes resources of following courses:**
+
+- **2020**
+  - **[Database System Development (数据库系统开发)](https://github.com/Hyperzsb/BIT/tree/master/2020/database-system-development/review)**
+  - **[Security Protocol Analysis (安全协议分析)](https://github.com/Hyperzsb/BIT/tree/master/2020/security-protocol-analysis/review)**
+  - **[Software Test (软件测试)](https://github.com/Hyperzsb/BIT/tree/master/2020/software-test/review)**
 
 ***Continually updating...***
 
@@ -44,6 +54,10 @@ If you are a student studying in School of CS, BIT, I wish you can help me to im
 如果你就读于北京理工大学，计算机学院，计算机科学与技术专业，希望你可以帮助我完善这个仓库中的资源。你的每一份贡献都将极大地帮助未来的北理工计科学子！
 
 To make your own contribution, you can just fork this repository and create PRs, or [contact me](mailto:hyperzsb@outlook.com) for other methods.
+
+## Declaration
+
+The maintainer and contributors of this repository are NOT responsible for ANY positive or negative effects caused by abuse of ANY content in this repository.
 
 ## LICENSE
 

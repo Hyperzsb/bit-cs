@@ -35,8 +35,6 @@ This repository is used to provide programming and learning reference to the jun
   - [**Discrete Mathematics (离散数学)**](https://github.com/Hyperzsb/BIT/tree/master/2020/discrete-mathematics)
   - **[Object Oriented Technology and Methods (面向对象技术与方法)](https://github.com/Hyperzsb/BIT/tree/master/2020/object-oriented-technology-and-methods)**
   - **[Operating System Course Project (操作系统课程设计)](https://github.com/Hyperzsb/BIT/tree/master/2020/operating-system-course-project)**
-  - **[Security Protocol Analysis (安全协议分析)](https://github.com/Hyperzsb/BIT/tree/master/2020/security-protocol-analysis)**
-  - **[Software Test (软件测试)](https://github.com/Hyperzsb/BIT/tree/master/2020/software-test)**
 
 **And review outlines & notes resources of following courses:**
 
@@ -57,7 +55,7 @@ To make your own contribution, you can just fork this repository and create PRs,
 
 ## Declaration
 
-The maintainer and contributors of this repository are NOT responsible for ANY positive or negative effects caused by abuse of ANY content in this repository.
+The maintainer and contributors of this repository are **NOT** responsible for **ANY** positive or negative effect caused by abuse of **ANY** content in this repository.
 
 ## LICENSE
 

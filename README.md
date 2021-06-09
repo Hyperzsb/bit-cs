@@ -43,6 +43,10 @@ This repository is used to provide programming and learning reference to the jun
   - **[Security Protocol Analysis (安全协议分析)](https://github.com/Hyperzsb/BIT/tree/master/2020/security-protocol-analysis/review)**
   - **[Software Test (软件测试)](https://github.com/Hyperzsb/BIT/tree/master/2020/software-test/review)**
 
+> As the markdown rendering engine of GitHub does not support LaTeX formula typesetting currently, there may exist several bad formats in the Markdown files. 
+>
+> Also, due to the shortage of Markdown, images in the most of Markdown files are removed.
+
 ***Continually updating...***
 
 ## Call for Contribution

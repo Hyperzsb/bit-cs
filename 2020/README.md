@@ -10,6 +10,7 @@
 - [**操作系统（operating-system）**](https://github.com/Hyperzsb/BIT/tree/master/2020/operating-system)
 - [**面向对象技术与方法（object-oriented-technology-and-methods）**](https://github.com/Hyperzsb/BIT/tree/master/2020/object-oriented-technology-and-methods)
 - [**操作系统课程设计（operating-system-course-project）**](https://github.com/Hyperzsb/BIT/tree/master/2020/operating-system-course-project)
+- [**计算机组成原理（principles-of-computer-organization）**](https://github.com/Hyperzsb/BIT/tree/master/2020/principles-of-computer-organization)
 - [**安全协议分析（security-protocol-analysis）**](https://github.com/Hyperzsb/BIT/tree/master/2020/security-protocol-analysis)
 - [**软件测试（software-test）**](https://github.com/Hyperzsb/BIT/tree/master/2020/software-test)
 

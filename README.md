@@ -41,6 +41,7 @@ This repository is used to provide programming and learning reference to the jun
 - **2020**
   - **[Database System Development (数据库系统开发)](https://github.com/Hyperzsb/BIT/tree/master/2020/database-system-development/review)**
   - **[Operating System (操作系统)](https://github.com/Hyperzsb/BIT/tree/master/2020/operating-system/review)**
+  - **[Principles of Computer Organization (计算机组成原理)](https://github.com/Hyperzsb/BIT/tree/master/2020/principles-of-computer-organization/review)**
   - **[Security Protocol Analysis (安全协议分析)](https://github.com/Hyperzsb/BIT/tree/master/2020/security-protocol-analysis/review)**
   - **[Software Test (软件测试)](https://github.com/Hyperzsb/BIT/tree/master/2020/software-test/review)**
 

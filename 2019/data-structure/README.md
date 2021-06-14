@@ -1,10 +1,12 @@
 # 数据结构
 
-##### 教师：袁武
+教师：袁武
 
-##### 开课时间：2019年秋
+开课时间：2019年秋
 
-### 题目
+教材：无指定教材
+
+## 题目
 
 - [1. 约瑟夫问题 - (1-josephus-problem)](https://github.com/Hyperzsb/BIT/tree/master/2019/data-structure/1-josephus-problem)
 - [2. 验证表 - (2-verification-table)](https://github.com/Hyperzsb/BIT/tree/master/2019/data-structure/2-verification-table)
@@ -39,9 +41,5 @@
 - [2. 竞选海报 - (2-campaign-poster)](https://github.com/Hyperzsb/BIT/tree/master/2019/data-structure/2-campaign-poster)
 - [3. 验证表 - (3-verification-table)](https://github.com/Hyperzsb/BIT/tree/master/2019/data-structure/3-verification-table)
 - [1. 堆排序 - (1-heap-sort)](https://github.com/Hyperzsb/BIT/tree/master/2019/data-structure/1-heap-sort)
-
-**Total Lines:**
-
-- C++ Source Code: 5094
 
 ***All updated.***

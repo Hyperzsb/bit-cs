@@ -1,11 +1,13 @@
 # Web开发基础
 
-##### 教师：赵刚
+教师：赵刚
 
-##### 开课时间：2019年夏
+开课时间：2019年夏
 
-### 课程设计
+教材：无指定教材
 
-- 详见experiment-report.docx
+## 课程设计
+
+详见experiment-report.docx
 
 ***All updated.***

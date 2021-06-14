@@ -1,8 +1,12 @@
 # 程序设计方法与实践
 
-##### 开课时间：2019年夏
+教师：李建武
 
-### 题目
+开课时间：2019年夏
+
+教材：无指定教材
+
+## 题目
 
 - [1. 达拉崩吧的酒宴 - (1-feast-at-dalabengba)](https://github.com/Hyperzsb/BIT/tree/master/2019/programming-method-and-practice/1-feast-at-dalabengba)
 - [2. A+B (I) - (2-a-add-b-i)](https://github.com/Hyperzsb/BIT/tree/master/2019/programming-method-and-practice/2-a-add-b-i)
@@ -37,9 +41,5 @@
 - [31. 神奇项链 - (31-magic-necklace)](https://github.com/Hyperzsb/BIT/tree/master/2019/programming-method-and-practice/31-magic-necklace)
 - [32. 血流成河？血战到底？ - (32-shed-blood-like-water-or-fight-to-the-bitter-end)](https://github.com/Hyperzsb/BIT/tree/master/2019/programming-method-and-practice/32-shed-blood-like-water-or-fight-to-the-bitter-end)
 - [比赛 - (competition)](https://github.com/Hyperzsb/BIT/tree/master/2019/programming-method-and-practice/competition)
-
-**Total Lines:**
-
-- C++ Source Code: 2558
 
 ***All updated.***

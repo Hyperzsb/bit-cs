@@ -1,12 +1,12 @@
 # 组合数学 
 
-##### 教师：刘庆晖
+教师：刘庆晖
 
-##### 开课时间：2020年春
+开课时间：2020年春
 
-##### 教材：[《Introductory Combinatorics》](https://book.douban.com/subject/3564282/)
+教材：[《Introductory Combinatorics》](https://book.douban.com/subject/3564282/)
 
-### 题目
+## 题目
 
 - [nim - (nim)](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/nim)
 - [nim (simplified) - (nim(simplified))](https://github.com/Hyperzsb/BIT/tree/master/2020/combinatorial-mathematics/nim(simplified))

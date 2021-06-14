@@ -1,12 +1,12 @@
 # 计算理论与算法分析
 
-##### 教师：刘庆晖
+教师：刘庆晖
 
-##### 开课时间：2020年春
+开课时间：2020年春
 
-##### 教材：[《计算机算法设计与分析》](https://book.douban.com/subject/10532384/)、[《计算理论导引》](https://book.douban.com/subject/1852515/)
+教材：[《计算机算法设计与分析》](https://book.douban.com/subject/10532384/)、[《计算理论导引》](https://book.douban.com/subject/1852515/)
 
-### 题目
+## 题目
 
 - [Cable master - (cable-master)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/cable-master)
 - [A*B 问题 - (a-multiply-b)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/a-multiply-b)
@@ -33,8 +33,9 @@
 - 任务分配问题
 - [DFA - (dfa)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/dfa)
 
-### 考试
+## 考试
 
-- [exam - (exam)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/exam)
+详见 [exam - (exam)](https://github.com/Hyperzsb/BIT/tree/master/2020/computation-theory-and-algorithm-analysis/exam)
 
 ***Continually updating...***
+

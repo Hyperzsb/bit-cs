@@ -1,0 +1,4 @@
+﻿  Assembling main.asm...
+main.asm(191): warning A6004: procedure argument or local not referenced : hPrevInstance
+main.asm(191): warning A6004: procedure argument or local not referenced : lpCmdLine
+  asm-3.vcxproj -> C:\Users\Hyperzsb\source\repos\asm-3\Debug\asm-3.exe

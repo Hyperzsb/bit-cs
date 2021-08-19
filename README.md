@@ -35,6 +35,12 @@ This repository is used to provide programming and learning reference to the jun
   - [**Discrete Mathematics (离散数学)**](https://github.com/Hyperzsb/BIT/tree/master/2020/discrete-mathematics)
   - **[Object Oriented Technology and Methods (面向对象技术与方法)](https://github.com/Hyperzsb/BIT/tree/master/2020/object-oriented-technology-and-methods)**
   - **[Operating System Course Project (操作系统课程设计)](https://github.com/Hyperzsb/BIT/tree/master/2020/operating-system-course-project)**
+- **2021**
+  - **[Assembly Language and Microcomputer Interface (汇编语言与接口技术)](https://github.com/Hyperzsb/BIT/tree/master/2021/assembly-language-and-microcomputer-interface)**
+  - **[Compilation Principle and Design (编译原理与设计)](https://github.com/Hyperzsb/BIT/tree/master/2021/compilation-principle-and-design)**
+  - **[Computer Architecture (计算机体系结构)](https://github.com/Hyperzsb/BIT/tree/master/2021/computer-architecture)**
+  - **[Computer Network (计算机网络)](https://github.com/Hyperzsb/BIT/tree/master/2021/computer-network)**
+  - **[Network and Information Security (网络和信息安全)](https://github.com/Hyperzsb/BIT/tree/master/2021/network-and-information-security)**
 
 **And review outlines & notes resources of following courses:**
 
@@ -45,6 +51,12 @@ This repository is used to provide programming and learning reference to the jun
   - **[Principles of Computer Organization (计算机组成原理)](https://github.com/Hyperzsb/BIT/tree/master/2020/principles-of-computer-organization/review)**
   - **[Security Protocol Analysis (安全协议分析)](https://github.com/Hyperzsb/BIT/tree/master/2020/security-protocol-analysis/review)**
   - **[Software Test (软件测试)](https://github.com/Hyperzsb/BIT/tree/master/2020/software-test/review)**
+- **2021**
+  - **[Assembly Language and Microcomputer Interface (汇编语言与接口技术)](https://github.com/Hyperzsb/BIT/tree/master/2021/assembly-language-and-microcomputer-interface/review)**
+  - **[Compilation Principle and Design (编译原理与设计)](https://github.com/Hyperzsb/BIT/tree/master/2021/compilation-principle-and-design/review)**
+  - **[Computer Architecture (计算机体系结构)](https://github.com/Hyperzsb/BIT/tree/master/2021/computer-architecture/review)**
+  - **[Computer Network (计算机网络)](https://github.com/Hyperzsb/BIT/tree/master/2021/computer-network/review)**
+  - **[Network and Information Security (网络和信息安全)](https://github.com/Hyperzsb/BIT/tree/master/2021/network-and-information-security/review)**
 
 > As the Markdown rendering engine of GitHub does not support LaTeX formula typesetting currently, there may exist several bad formats in the Markdown files. 
 >
@@ -59,6 +71,8 @@ If you are a student studying in School of CS, BIT, I wish you can help me to im
 如果你就读于北京理工大学，计算机学院，计算机科学与技术专业，希望你可以帮助我完善这个仓库中的资源。你的每一份贡献都将极大地帮助未来的北理工计科学子！
 
 To make your own contribution, you can just fork this repository and create PRs, or [contact me](mailto:hyperzsb@outlook.com) for other methods.
+
+For more details, please refer to [CONTRIBUTING](https://github.com/Hyperzsb/BIT/blob/master/CONTRIBUTING.md).
 
 ## Declaration
 

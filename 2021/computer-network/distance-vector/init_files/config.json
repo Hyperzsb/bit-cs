@@ -1,0 +1,5 @@
+{
+  "interval": 10000,
+  "max_distance": 32,
+  "max_timeout": 30000
+}

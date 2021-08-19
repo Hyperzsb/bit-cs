@@ -1,0 +1,20 @@
+{
+  "self": "b",
+  "neighbors": [
+    {
+      "id": "a",
+      "cost": 1.0,
+      "port": 50000
+    },
+    {
+      "id": "c",
+      "cost": 1.0,
+      "port": 50002
+    }
+  ],
+  "config": {
+    "interval": 5000,
+    "max_distance": 8,
+    "max_timeout": 15000
+  }
+}

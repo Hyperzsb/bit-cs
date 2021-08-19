@@ -1,0 +1,349 @@
+[Init][INFO ~ 2021-05-02 16:46:58] Find usable WinSock DLL successfully
+[Init][INFO ~ 2021-05-02 16:46:58] Initialize create successfully
+[Init][INFO ~ 2021-05-02 16:46:58] Bind socket to address successfully
+[Init][INFO ~ 2021-05-02 16:46:58] Call ioctlsocket successfully
+[280][INFO ~ 2021-05-02 16:46:58] Distort sent frame: seq=0 ack=7
+[280][INFO ~ 2021-05-02 16:46:59] Drop sent frame: seq=1 ack=7
+[280][INFO ~ 2021-05-02 16:46:59] Drop sent frame: seq=2 ack=7
+[280][INFO ~ 2021-05-02 16:46:59] Drop sent frame: seq=3 ack=7
+[280][INFO ~ 2021-05-02 16:46:59] Drop sent frame: seq=4 ack=7
+[280][INFO ~ 2021-05-02 16:46:59] Drop sent frame: seq=5 ack=7
+[280][INFO ~ 2021-05-02 16:46:59] Sent frame: seq=6 ack=7
+[280][INFO ~ 2021-05-02 16:46:59] Received frame: seq=6 ack=7; frame_expected=0 frame_to_send=7 ack_expected=0
+[280][INFO ~ 2021-05-02 16:46:59] Checksum is valid
+[280][WARNING ~ 2021-05-02 16:46:59] Received frame is unexpected, discarded: seq=6 ack=7
+[280][WARNING ~ 2021-05-02 16:47:00] Time out
+[280][INFO ~ 2021-05-02 16:47:00] Resent frame: seq=0 ack=7
+[280][INFO ~ 2021-05-02 16:47:00] Resent frame: seq=1 ack=7
+[280][INFO ~ 2021-05-02 16:47:00] Resent frame: seq=2 ack=7
+[280][INFO ~ 2021-05-02 16:47:00] Resent frame: seq=3 ack=7
+[280][INFO ~ 2021-05-02 16:47:00] Resent frame: seq=4 ack=7
+[280][INFO ~ 2021-05-02 16:47:00] Resent frame: seq=5 ack=7
+[280][INFO ~ 2021-05-02 16:47:00] Resent frame: seq=6 ack=7
+[280][INFO ~ 2021-05-02 16:47:00] Received frame: seq=0 ack=7; frame_expected=0 frame_to_send=7 ack_expected=0
+[280][INFO ~ 2021-05-02 16:47:00] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:00] Received frame is expected: seq=0 ack=7
+[280][INFO ~ 2021-05-02 16:47:00] Received frame: seq=1 ack=7; frame_expected=1 frame_to_send=7 ack_expected=0
+[280][INFO ~ 2021-05-02 16:47:00] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:00] Received frame is expected: seq=1 ack=7
+[280][INFO ~ 2021-05-02 16:47:00] Received frame: seq=2 ack=7; frame_expected=2 frame_to_send=7 ack_expected=0
+[280][INFO ~ 2021-05-02 16:47:00] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:00] Received frame is expected: seq=2 ack=7
+[280][INFO ~ 2021-05-02 16:47:00] Received frame: seq=3 ack=7; frame_expected=3 frame_to_send=7 ack_expected=0
+[280][INFO ~ 2021-05-02 16:47:00] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:00] Received frame is expected: seq=3 ack=7
+[280][INFO ~ 2021-05-02 16:47:00] Received frame: seq=4 ack=7; frame_expected=4 frame_to_send=7 ack_expected=0
+[280][INFO ~ 2021-05-02 16:47:00] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:00] Received frame is expected: seq=4 ack=7
+[280][INFO ~ 2021-05-02 16:47:00] Received frame: seq=5 ack=7; frame_expected=5 frame_to_send=7 ack_expected=0
+[280][INFO ~ 2021-05-02 16:47:00] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:00] Received frame is expected: seq=5 ack=7
+[280][INFO ~ 2021-05-02 16:47:00] Received frame: seq=6 ack=7; frame_expected=6 frame_to_send=7 ack_expected=0
+[280][INFO ~ 2021-05-02 16:47:00] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:00] Received frame is expected: seq=6 ack=7
+[280][WARNING ~ 2021-05-02 16:47:01] Time out
+[280][INFO ~ 2021-05-02 16:47:01] Resent frame: seq=0 ack=6
+[280][INFO ~ 2021-05-02 16:47:01] Resent frame: seq=1 ack=6
+[280][INFO ~ 2021-05-02 16:47:01] Resent frame: seq=2 ack=6
+[280][INFO ~ 2021-05-02 16:47:01] Resent frame: seq=3 ack=6
+[280][INFO ~ 2021-05-02 16:47:01] Resent frame: seq=4 ack=6
+[280][INFO ~ 2021-05-02 16:47:01] Resent frame: seq=5 ack=6
+[280][INFO ~ 2021-05-02 16:47:01] Resent frame: seq=6 ack=6
+[280][INFO ~ 2021-05-02 16:47:01] Received frame: seq=7 ack=6; frame_expected=7 frame_to_send=7 ack_expected=0
+[280][INFO ~ 2021-05-02 16:47:01] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:01] Received frame is expected: seq=7 ack=6
+[280][INFO ~ 2021-05-02 16:47:01] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:01] Shifting ack_expected=0 to target=6...
+[280][INFO ~ 2021-05-02 16:47:01] Shifting ack_expected=1 to target=6...
+[280][INFO ~ 2021-05-02 16:47:01] Shifting ack_expected=2 to target=6...
+[280][INFO ~ 2021-05-02 16:47:01] Shifting ack_expected=3 to target=6...
+[280][INFO ~ 2021-05-02 16:47:01] Shifting ack_expected=4 to target=6...
+[280][INFO ~ 2021-05-02 16:47:01] Shifting ack_expected=5 to target=6...
+[280][INFO ~ 2021-05-02 16:47:01] Shifting ack_expected=6 to target=6...
+[280][INFO ~ 2021-05-02 16:47:01] Drop sent frame: seq=7 ack=6
+[280][INFO ~ 2021-05-02 16:47:01] Drop sent frame: seq=0 ack=6
+[280][INFO ~ 2021-05-02 16:47:01] Drop sent frame: seq=1 ack=6
+[280][INFO ~ 2021-05-02 16:47:01] Distort sent frame: seq=2 ack=6
+[280][INFO ~ 2021-05-02 16:47:01] Drop sent frame: seq=3 ack=6
+[280][INFO ~ 2021-05-02 16:47:01] Drop sent frame: seq=4 ack=6
+[280][INFO ~ 2021-05-02 16:47:01] Drop sent frame: seq=5 ack=6
+[280][WARNING ~ 2021-05-02 16:47:02] Time out
+[280][INFO ~ 2021-05-02 16:47:02] Resent frame: seq=7 ack=6
+[280][INFO ~ 2021-05-02 16:47:02] Resent frame: seq=0 ack=6
+[280][INFO ~ 2021-05-02 16:47:02] Resent frame: seq=1 ack=6
+[280][INFO ~ 2021-05-02 16:47:02] Resent frame: seq=2 ack=6
+[280][INFO ~ 2021-05-02 16:47:02] Resent frame: seq=3 ack=6
+[280][INFO ~ 2021-05-02 16:47:02] Resent frame: seq=4 ack=6
+[280][INFO ~ 2021-05-02 16:47:02] Resent frame: seq=5 ack=6
+[280][INFO ~ 2021-05-02 16:47:02] Received frame: seq=7 ack=7; frame_expected=7 frame_to_send=6 ack_expected=7
+[280][INFO ~ 2021-05-02 16:47:02] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:02] Received frame is expected: seq=7 ack=7
+[280][INFO ~ 2021-05-02 16:47:02] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:02] Shifting ack_expected=7 to target=7...
+[280][INFO ~ 2021-05-02 16:47:02] Drop sent frame: seq=6 ack=6
+[280][INFO ~ 2021-05-02 16:47:02] Received frame: seq=7 ack=0; frame_expected=7 frame_to_send=7 ack_expected=0
+[280][INFO ~ 2021-05-02 16:47:02] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:02] Received frame is expected: seq=7 ack=0
+[280][INFO ~ 2021-05-02 16:47:02] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:02] Shifting ack_expected=0 to target=0...
+[280][INFO ~ 2021-05-02 16:47:02] Drop sent frame: seq=7 ack=6
+[280][INFO ~ 2021-05-02 16:47:02] Received frame: seq=7 ack=1; frame_expected=7 frame_to_send=0 ack_expected=1
+[280][INFO ~ 2021-05-02 16:47:02] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:02] Received frame is expected: seq=7 ack=1
+[280][INFO ~ 2021-05-02 16:47:02] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:02] Shifting ack_expected=1 to target=1...
+[280][INFO ~ 2021-05-02 16:47:02] Drop sent frame: seq=0 ack=6
+[280][INFO ~ 2021-05-02 16:47:02] Received frame: seq=7 ack=2; frame_expected=7 frame_to_send=1 ack_expected=2
+[280][INFO ~ 2021-05-02 16:47:02] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:02] Received frame is expected: seq=7 ack=2
+[280][INFO ~ 2021-05-02 16:47:02] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:02] Shifting ack_expected=2 to target=2...
+[280][INFO ~ 2021-05-02 16:47:02] Sent frame: seq=1 ack=6
+[280][INFO ~ 2021-05-02 16:47:02] Received frame: seq=7 ack=3; frame_expected=7 frame_to_send=2 ack_expected=3
+[280][INFO ~ 2021-05-02 16:47:02] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:02] Received frame is expected: seq=7 ack=3
+[280][INFO ~ 2021-05-02 16:47:02] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:02] Shifting ack_expected=3 to target=3...
+[280][INFO ~ 2021-05-02 16:47:02] Drop sent frame: seq=2 ack=6
+[280][INFO ~ 2021-05-02 16:47:02] Received frame: seq=7 ack=4; frame_expected=7 frame_to_send=3 ack_expected=4
+[280][INFO ~ 2021-05-02 16:47:02] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:02] Received frame is expected: seq=7 ack=4
+[280][INFO ~ 2021-05-02 16:47:02] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:02] Shifting ack_expected=4 to target=4...
+[280][INFO ~ 2021-05-02 16:47:02] Drop sent frame: seq=3 ack=6
+[280][INFO ~ 2021-05-02 16:47:02] Received frame: seq=7 ack=5; frame_expected=7 frame_to_send=4 ack_expected=5
+[280][INFO ~ 2021-05-02 16:47:02] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:02] Received frame is expected: seq=7 ack=5
+[280][INFO ~ 2021-05-02 16:47:02] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:02] Shifting ack_expected=5 to target=5...
+[280][INFO ~ 2021-05-02 16:47:02] Distort sent frame: seq=4 ack=6
+[280][WARNING ~ 2021-05-02 16:47:03] Time out
+[280][INFO ~ 2021-05-02 16:47:03] Resent frame: seq=6 ack=6
+[280][INFO ~ 2021-05-02 16:47:03] Resent frame: seq=7 ack=6
+[280][INFO ~ 2021-05-02 16:47:03] Resent frame: seq=0 ack=6
+[280][INFO ~ 2021-05-02 16:47:03] Resent frame: seq=1 ack=6
+[280][INFO ~ 2021-05-02 16:47:03] Resent frame: seq=2 ack=6
+[280][INFO ~ 2021-05-02 16:47:03] Resent frame: seq=3 ack=6
+[280][INFO ~ 2021-05-02 16:47:03] Resent frame: seq=4 ack=6
+[280][INFO ~ 2021-05-02 16:47:03] Received frame: seq=7 ack=6; frame_expected=7 frame_to_send=5 ack_expected=6
+[280][INFO ~ 2021-05-02 16:47:03] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:03] Received frame is expected: seq=7 ack=6
+[280][INFO ~ 2021-05-02 16:47:03] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:03] Shifting ack_expected=6 to target=6...
+[280][INFO ~ 2021-05-02 16:47:03] Drop sent frame: seq=5 ack=6
+[280][INFO ~ 2021-05-02 16:47:03] Received frame: seq=7 ack=7; frame_expected=7 frame_to_send=6 ack_expected=7
+[280][INFO ~ 2021-05-02 16:47:03] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:03] Received frame is expected: seq=7 ack=7
+[280][INFO ~ 2021-05-02 16:47:03] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:03] Shifting ack_expected=7 to target=7...
+[280][INFO ~ 2021-05-02 16:47:03] Drop sent frame: seq=6 ack=6
+[280][INFO ~ 2021-05-02 16:47:03] Received frame: seq=7 ack=0; frame_expected=7 frame_to_send=7 ack_expected=0
+[280][INFO ~ 2021-05-02 16:47:03] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:03] Received frame is expected: seq=7 ack=0
+[280][INFO ~ 2021-05-02 16:47:03] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:03] Shifting ack_expected=0 to target=0...
+[280][INFO ~ 2021-05-02 16:47:03] Drop sent frame: seq=7 ack=6
+[280][INFO ~ 2021-05-02 16:47:03] Received frame: seq=7 ack=1; frame_expected=7 frame_to_send=0 ack_expected=1
+[280][INFO ~ 2021-05-02 16:47:03] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:03] Received frame is expected: seq=7 ack=1
+[280][INFO ~ 2021-05-02 16:47:03] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:03] Shifting ack_expected=1 to target=1...
+[280][INFO ~ 2021-05-02 16:47:03] Drop sent frame: seq=0 ack=6
+[280][INFO ~ 2021-05-02 16:47:03] Received frame: seq=7 ack=2; frame_expected=7 frame_to_send=1 ack_expected=2
+[280][INFO ~ 2021-05-02 16:47:03] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:03] Received frame is expected: seq=7 ack=2
+[280][INFO ~ 2021-05-02 16:47:03] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:03] Shifting ack_expected=2 to target=2...
+[280][INFO ~ 2021-05-02 16:47:03] Drop sent frame: seq=1 ack=6
+[280][INFO ~ 2021-05-02 16:47:03] Received frame: seq=7 ack=3; frame_expected=7 frame_to_send=2 ack_expected=3
+[280][INFO ~ 2021-05-02 16:47:03] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:03] Received frame is expected: seq=7 ack=3
+[280][INFO ~ 2021-05-02 16:47:03] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:03] Shifting ack_expected=3 to target=3...
+[280][INFO ~ 2021-05-02 16:47:03] Drop sent frame: seq=2 ack=6
+[280][INFO ~ 2021-05-02 16:47:03] Received frame: seq=7 ack=4; frame_expected=7 frame_to_send=3 ack_expected=4
+[280][INFO ~ 2021-05-02 16:47:03] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:03] Received frame is expected: seq=7 ack=4
+[280][INFO ~ 2021-05-02 16:47:03] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:03] Shifting ack_expected=4 to target=4...
+[280][INFO ~ 2021-05-02 16:47:03] Drop sent frame: seq=3 ack=6
+[280][WARNING ~ 2021-05-02 16:47:04] Time out
+[280][INFO ~ 2021-05-02 16:47:04] Resent frame: seq=5 ack=6
+[280][INFO ~ 2021-05-02 16:47:04] Resent frame: seq=6 ack=6
+[280][INFO ~ 2021-05-02 16:47:04] Resent frame: seq=7 ack=6
+[280][INFO ~ 2021-05-02 16:47:04] Resent frame: seq=0 ack=6
+[280][INFO ~ 2021-05-02 16:47:04] Resent frame: seq=1 ack=6
+[280][INFO ~ 2021-05-02 16:47:04] Resent frame: seq=2 ack=6
+[280][INFO ~ 2021-05-02 16:47:04] Resent frame: seq=3 ack=6
+[280][INFO ~ 2021-05-02 16:47:04] Received frame: seq=7 ack=5; frame_expected=7 frame_to_send=4 ack_expected=5
+[280][INFO ~ 2021-05-02 16:47:04] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:04] Received frame is expected: seq=7 ack=5
+[280][INFO ~ 2021-05-02 16:47:04] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:04] Shifting ack_expected=5 to target=5...
+[280][INFO ~ 2021-05-02 16:47:04] Sent frame: seq=4 ack=6
+[280][INFO ~ 2021-05-02 16:47:04] Received frame: seq=7 ack=6; frame_expected=7 frame_to_send=5 ack_expected=6
+[280][INFO ~ 2021-05-02 16:47:04] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:04] Received frame is expected: seq=7 ack=6
+[280][INFO ~ 2021-05-02 16:47:04] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:04] Shifting ack_expected=6 to target=6...
+[280][INFO ~ 2021-05-02 16:47:04] Drop sent frame: seq=5 ack=6
+[280][INFO ~ 2021-05-02 16:47:04] Received frame: seq=7 ack=7; frame_expected=7 frame_to_send=6 ack_expected=7
+[280][INFO ~ 2021-05-02 16:47:04] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:04] Received frame is expected: seq=7 ack=7
+[280][INFO ~ 2021-05-02 16:47:04] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:04] Shifting ack_expected=7 to target=7...
+[280][INFO ~ 2021-05-02 16:47:04] Distort sent frame: seq=6 ack=6
+[280][INFO ~ 2021-05-02 16:47:04] Received frame: seq=7 ack=0; frame_expected=7 frame_to_send=7 ack_expected=0
+[280][INFO ~ 2021-05-02 16:47:04] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:04] Received frame is expected: seq=7 ack=0
+[280][INFO ~ 2021-05-02 16:47:04] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:04] Shifting ack_expected=0 to target=0...
+[280][INFO ~ 2021-05-02 16:47:04] Drop sent frame: seq=7 ack=6
+[280][INFO ~ 2021-05-02 16:47:04] Received frame: seq=7 ack=1; frame_expected=7 frame_to_send=0 ack_expected=1
+[280][INFO ~ 2021-05-02 16:47:04] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:04] Received frame is expected: seq=7 ack=1
+[280][INFO ~ 2021-05-02 16:47:04] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:04] Shifting ack_expected=1 to target=1...
+[280][INFO ~ 2021-05-02 16:47:04] Drop sent frame: seq=0 ack=6
+[280][INFO ~ 2021-05-02 16:47:04] Received frame: seq=7 ack=2; frame_expected=7 frame_to_send=1 ack_expected=2
+[280][INFO ~ 2021-05-02 16:47:04] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:04] Received frame is expected: seq=7 ack=2
+[280][INFO ~ 2021-05-02 16:47:04] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:04] Shifting ack_expected=2 to target=2...
+[280][INFO ~ 2021-05-02 16:47:04] Drop sent frame: seq=1 ack=6
+[280][INFO ~ 2021-05-02 16:47:04] Received frame: seq=7 ack=3; frame_expected=7 frame_to_send=2 ack_expected=3
+[280][INFO ~ 2021-05-02 16:47:04] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:04] Received frame is expected: seq=7 ack=3
+[280][INFO ~ 2021-05-02 16:47:04] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:04] Shifting ack_expected=3 to target=3...
+[280][INFO ~ 2021-05-02 16:47:04] Drop sent frame: seq=2 ack=6
+[280][INFO ~ 2021-05-02 16:47:04] Received frame: seq=7 ack=4; frame_expected=7 frame_to_send=3 ack_expected=4
+[280][INFO ~ 2021-05-02 16:47:04] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:04] Received frame is expected: seq=7 ack=4
+[280][INFO ~ 2021-05-02 16:47:04] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:04] Shifting ack_expected=4 to target=4...
+[280][INFO ~ 2021-05-02 16:47:04] Drop sent frame: seq=3 ack=6
+[280][WARNING ~ 2021-05-02 16:47:05] Time out
+[280][INFO ~ 2021-05-02 16:47:05] Resent frame: seq=5 ack=6
+[280][INFO ~ 2021-05-02 16:47:05] Resent frame: seq=6 ack=6
+[280][INFO ~ 2021-05-02 16:47:05] Resent frame: seq=7 ack=6
+[280][INFO ~ 2021-05-02 16:47:05] Resent frame: seq=0 ack=6
+[280][INFO ~ 2021-05-02 16:47:05] Resent frame: seq=1 ack=6
+[280][INFO ~ 2021-05-02 16:47:05] Resent frame: seq=2 ack=6
+[280][INFO ~ 2021-05-02 16:47:05] Resent frame: seq=3 ack=6
+[280][INFO ~ 2021-05-02 16:47:05] Received frame: seq=7 ack=5; frame_expected=7 frame_to_send=4 ack_expected=5
+[280][INFO ~ 2021-05-02 16:47:05] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:05] Received frame is expected: seq=7 ack=5
+[280][INFO ~ 2021-05-02 16:47:05] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:05] Shifting ack_expected=5 to target=5...
+[280][INFO ~ 2021-05-02 16:47:05] Drop sent frame: seq=4 ack=6
+[280][INFO ~ 2021-05-02 16:47:05] Received frame: seq=7 ack=6; frame_expected=7 frame_to_send=5 ack_expected=6
+[280][INFO ~ 2021-05-02 16:47:05] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:05] Received frame is expected: seq=7 ack=6
+[280][INFO ~ 2021-05-02 16:47:05] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:05] Shifting ack_expected=6 to target=6...
+[280][INFO ~ 2021-05-02 16:47:05] Drop sent frame: seq=5 ack=6
+[280][INFO ~ 2021-05-02 16:47:05] Received frame: seq=7 ack=7; frame_expected=7 frame_to_send=6 ack_expected=7
+[280][INFO ~ 2021-05-02 16:47:05] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:05] Received frame is expected: seq=7 ack=7
+[280][INFO ~ 2021-05-02 16:47:05] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:05] Shifting ack_expected=7 to target=7...
+[280][INFO ~ 2021-05-02 16:47:05] Drop sent frame: seq=6 ack=6
+[280][INFO ~ 2021-05-02 16:47:05] Received frame: seq=7 ack=0; frame_expected=7 frame_to_send=7 ack_expected=0
+[280][INFO ~ 2021-05-02 16:47:05] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:05] Received frame is expected: seq=7 ack=0
+[280][INFO ~ 2021-05-02 16:47:05] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:05] Shifting ack_expected=0 to target=0...
+[280][INFO ~ 2021-05-02 16:47:05] Sent frame: seq=7 ack=6
+[280][INFO ~ 2021-05-02 16:47:05] Received frame: seq=7 ack=1; frame_expected=7 frame_to_send=0 ack_expected=1
+[280][INFO ~ 2021-05-02 16:47:05] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:05] Received frame is expected: seq=7 ack=1
+[280][INFO ~ 2021-05-02 16:47:05] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:05] Shifting ack_expected=1 to target=1...
+[280][INFO ~ 2021-05-02 16:47:05] Distort sent frame: seq=0 ack=6
+[280][INFO ~ 2021-05-02 16:47:05] Received frame: seq=7 ack=2; frame_expected=7 frame_to_send=1 ack_expected=2
+[280][INFO ~ 2021-05-02 16:47:05] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:05] Received frame is expected: seq=7 ack=2
+[280][INFO ~ 2021-05-02 16:47:05] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:05] Shifting ack_expected=2 to target=2...
+[280][INFO ~ 2021-05-02 16:47:05] Drop sent frame: seq=1 ack=6
+[280][INFO ~ 2021-05-02 16:47:05] Received frame: seq=7 ack=3; frame_expected=7 frame_to_send=2 ack_expected=3
+[280][INFO ~ 2021-05-02 16:47:05] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:05] Received frame is expected: seq=7 ack=3
+[280][INFO ~ 2021-05-02 16:47:05] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:05] Shifting ack_expected=3 to target=3...
+[280][INFO ~ 2021-05-02 16:47:05] Drop sent frame: seq=2 ack=6
+[280][WARNING ~ 2021-05-02 16:47:06] Time out
+[280][INFO ~ 2021-05-02 16:47:06] Resent frame: seq=4 ack=6
+[280][INFO ~ 2021-05-02 16:47:06] Resent frame: seq=5 ack=6
+[280][INFO ~ 2021-05-02 16:47:06] Resent frame: seq=6 ack=6
+[280][INFO ~ 2021-05-02 16:47:06] Resent frame: seq=7 ack=6
+[280][INFO ~ 2021-05-02 16:47:06] Resent frame: seq=0 ack=6
+[280][INFO ~ 2021-05-02 16:47:06] Resent frame: seq=1 ack=6
+[280][INFO ~ 2021-05-02 16:47:06] Resent frame: seq=2 ack=6
+[280][INFO ~ 2021-05-02 16:47:06] Received frame: seq=7 ack=4; frame_expected=7 frame_to_send=3 ack_expected=4
+[280][INFO ~ 2021-05-02 16:47:06] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:06] Received frame is expected: seq=7 ack=4
+[280][INFO ~ 2021-05-02 16:47:06] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:06] Shifting ack_expected=4 to target=4...
+[280][INFO ~ 2021-05-02 16:47:06] Drop sent frame: seq=3 ack=6
+[280][INFO ~ 2021-05-02 16:47:06] Received frame: seq=7 ack=5; frame_expected=7 frame_to_send=4 ack_expected=5
+[280][INFO ~ 2021-05-02 16:47:06] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:06] Received frame is expected: seq=7 ack=5
+[280][INFO ~ 2021-05-02 16:47:06] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:06] Shifting ack_expected=5 to target=5...
+[280][INFO ~ 2021-05-02 16:47:06] Drop sent frame: seq=4 ack=6
+[280][INFO ~ 2021-05-02 16:47:06] Received frame: seq=7 ack=6; frame_expected=7 frame_to_send=5 ack_expected=6
+[280][INFO ~ 2021-05-02 16:47:06] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:06] Received frame is expected: seq=7 ack=6
+[280][INFO ~ 2021-05-02 16:47:06] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:06] Shifting ack_expected=6 to target=6...
+[280][INFO ~ 2021-05-02 16:47:06] Drop sent frame: seq=5 ack=6
+[280][INFO ~ 2021-05-02 16:47:06] Received frame: seq=7 ack=7; frame_expected=7 frame_to_send=6 ack_expected=7
+[280][INFO ~ 2021-05-02 16:47:06] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:06] Received frame is expected: seq=7 ack=7
+[280][INFO ~ 2021-05-02 16:47:06] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:06] Shifting ack_expected=7 to target=7...
+[280][INFO ~ 2021-05-02 16:47:06] Drop sent frame: seq=6 ack=6
+[280][INFO ~ 2021-05-02 16:47:06] Received frame: seq=7 ack=0; frame_expected=7 frame_to_send=7 ack_expected=0
+[280][INFO ~ 2021-05-02 16:47:06] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:06] Received frame is expected: seq=7 ack=0
+[280][INFO ~ 2021-05-02 16:47:06] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:06] Shifting ack_expected=0 to target=0...
+[280][INFO ~ 2021-05-02 16:47:06] Received frame: seq=7 ack=1; frame_expected=7 frame_to_send=7 ack_expected=1
+[280][INFO ~ 2021-05-02 16:47:06] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:06] Received frame is expected: seq=7 ack=1
+[280][INFO ~ 2021-05-02 16:47:06] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:06] Shifting ack_expected=1 to target=1...
+[280][INFO ~ 2021-05-02 16:47:06] Received frame: seq=7 ack=2; frame_expected=7 frame_to_send=7 ack_expected=2
+[280][INFO ~ 2021-05-02 16:47:06] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:06] Received frame is expected: seq=7 ack=2
+[280][INFO ~ 2021-05-02 16:47:06] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:06] Shifting ack_expected=2 to target=2...
+[280][WARNING ~ 2021-05-02 16:47:08] Time out
+[280][INFO ~ 2021-05-02 16:47:08] Resent frame: seq=3 ack=6
+[280][INFO ~ 2021-05-02 16:47:08] Resent frame: seq=4 ack=6
+[280][INFO ~ 2021-05-02 16:47:08] Resent frame: seq=5 ack=6
+[280][INFO ~ 2021-05-02 16:47:08] Resent frame: seq=6 ack=6
+[280][INFO ~ 2021-05-02 16:47:08] Received frame: seq=7 ack=3; frame_expected=7 frame_to_send=7 ack_expected=3
+[280][INFO ~ 2021-05-02 16:47:08] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:08] Received frame is expected: seq=7 ack=3
+[280][INFO ~ 2021-05-02 16:47:08] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:08] Shifting ack_expected=3 to target=3...
+[280][INFO ~ 2021-05-02 16:47:08] Received frame: seq=7 ack=4; frame_expected=7 frame_to_send=7 ack_expected=4
+[280][INFO ~ 2021-05-02 16:47:08] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:08] Received frame is expected: seq=7 ack=4
+[280][INFO ~ 2021-05-02 16:47:08] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:08] Shifting ack_expected=4 to target=4...
+[280][INFO ~ 2021-05-02 16:47:08] Received frame: seq=7 ack=5; frame_expected=7 frame_to_send=7 ack_expected=5
+[280][INFO ~ 2021-05-02 16:47:08] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:08] Received frame is expected: seq=7 ack=5
+[280][INFO ~ 2021-05-02 16:47:08] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:08] Shifting ack_expected=5 to target=5...
+[280][INFO ~ 2021-05-02 16:47:08] Received frame: seq=7 ack=6; frame_expected=7 frame_to_send=7 ack_expected=6
+[280][INFO ~ 2021-05-02 16:47:08] Checksum is valid
+[280][INFO ~ 2021-05-02 16:47:08] Received frame is expected: seq=7 ack=6
+[280][INFO ~ 2021-05-02 16:47:08] Receiving completed
+[280][INFO ~ 2021-05-02 16:47:08] Shifting ack_expected=6 to target=6...
+[280][INFO ~ 2021-05-02 16:47:08] Sending completed
+[Exit][INFO ~ 2021-05-02 16:47:08] Close socket successfully

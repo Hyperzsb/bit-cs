@@ -1,0 +1,4 @@
+:quit
+:quit
+1 2 3
+:load /root/test1.hs

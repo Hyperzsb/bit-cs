@@ -1,4 +1,4 @@
-# BIT
+# Courses of BIT CS
 
 **Codes and other resources of courses offered in [School of Computer Science & Technology](http://cs.bit.edu.cn/), [Beijing Institute of Technology](http://www.bit.edu.cn/) in undergraduate stage.**
 

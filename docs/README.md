@@ -8,10 +8,10 @@ This repository is used to provide programming and learning reference to the jun
 
 ## Table of Contents
 
-- [Courses](https://github.com/Hyperzsb/BIT#courses)
-- [Call for Contribution](https://github.com/Hyperzsb/BIT#call-for-contribution)
-- [Declaration](https://github.com/Hyperzsb/BIT#declaration)
-- [License](https://github.com/Hyperzsb/BIT#license)
+- [Courses](https://github.hyperzsb.tech/bit-cs#courses)
+- [Call for Contribution](https://github.hyperzsb.tech/bit-cs#call-for-contribution)
+- [Declaration](https://github.hyperzsb.tech/bit-cs#declaration)
+- [License](https://github.hyperzsb.tech/bit-cs#license)
 
 ## Courses
 
